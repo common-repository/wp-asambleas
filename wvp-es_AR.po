@@ -1,0 +1,2926 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-shortcode-content\n"
+"POT-Creation-Date: 2023-05-20 23:49-0500\n"
+"PO-Revision-Date: 2023-05-21 00:15-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: modules/ajax.php:631
+msgid "Email subject:"
+msgstr "Asunto:"
+
+#: modules/ajax.php:631
+msgid "Email body:"
+msgstr "Cuerpo del mensaje:"
+
+#: modules/ajax.php:792
+msgid "Message sent"
+msgstr "El mensaje ha sido enviado"
+
+#: modules/cpt.php:22 modules/cpt.php:23
+msgid "Poll"
+msgstr "Votación"
+
+#: modules/cpt.php:24 modules/cpt.php:79
+msgid "Add New"
+msgstr "Crear nueva"
+
+#: modules/cpt.php:25
+msgid "Add New Poll"
+msgstr "Crear nueva "
+
+#: modules/cpt.php:26
+msgid "Edit Poll"
+msgstr "Editar votación"
+
+#: modules/cpt.php:27
+msgid "New Poll"
+msgstr "Nueva votación"
+
+#: modules/cpt.php:28
+msgid "All Poll"
+msgstr "Votaciones"
+
+#: modules/cpt.php:29
+msgid "View Card"
+msgstr ""
+
+#: modules/cpt.php:30
+msgid "Search Poll"
+msgstr "Buscar votación"
+
+#: modules/cpt.php:31
+msgid "No Poll found"
+msgstr "No se encontraron votaciones"
+
+#: modules/cpt.php:32
+msgid "No Poll found in Trash"
+msgstr "No hay votaciones en la papelera"
+
+#: modules/cpt.php:34
+msgid "Polls"
+msgstr "Votaciones"
+
+#: modules/cpt.php:77 modules/cpt.php:78
+msgid "Email Template"
+msgstr "Envío de emails"
+
+#: modules/cpt.php:80
+msgid "Add New Email Template"
+msgstr "Plantilla de email masivo a enviar"
+
+#: modules/cpt.php:81
+#, fuzzy
+#| msgid "Global Template:"
+msgid "Edit Email Template"
+msgstr "Plantilla Global:"
+
+#: modules/cpt.php:82
+#, fuzzy
+#| msgid "Global Template:"
+msgid "New Email Template"
+msgstr "Plantilla Global:"
+
+#: modules/cpt.php:83 modules/cpt.php:89
+msgid "Email Templates"
+msgstr "Envío de emails"
+
+#: modules/cpt.php:84
+#, fuzzy
+#| msgid "Global Template:"
+msgid "View Email Template"
+msgstr "Plantilla Global:"
+
+#: modules/cpt.php:85
+msgid "Search Email Template"
+msgstr "Buscar"
+
+#: modules/cpt.php:86
+msgid "No Email Template found"
+msgstr ""
+"No se encontró ninguna plantilla de email. Para crear un nuevo envío pulse "
+"el botón de arriba"
+
+#: modules/cpt.php:87
+#, fuzzy
+#| msgid "No Poll found in Trash"
+msgid "No Email Template found in Trash"
+msgstr "No hay votaciones en la papelera"
+
+#: modules/cpt.php:137 modules/cpt.php:138
+msgid "Poll Categories"
+msgstr "Categorías para las votaciones"
+
+#: modules/cpt.php:139
+msgid "Search Poll Categories"
+msgstr "Buscar votación"
+
+#: modules/cpt.php:140
+msgid "Popular Poll Categories"
+msgstr ""
+
+#: modules/cpt.php:141
+msgid "All Poll Categories"
+msgstr "Todas las categorías de votaciones"
+
+#: modules/cpt.php:144
+msgid "Edit Poll Category"
+msgstr "Editar"
+
+#: modules/cpt.php:145
+msgid "Update Category"
+msgstr "Agregar nueva categoría"
+
+#: modules/cpt.php:146
+msgid "Add New Category"
+msgstr "Agregar nueva categoría"
+
+#: modules/cpt.php:147
+msgid "New Category Name"
+msgstr "Nombre de la categoría"
+
+#: modules/cpt.php:148
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: modules/cpt.php:149
+msgid "Add or remove Categories"
+msgstr "Agregar/remover categoría"
+
+#: modules/cpt.php:150
+msgid "Choose from the most used Categoryies"
+msgstr ""
+
+#: modules/cpt.php:151
+msgid "No Categories found."
+msgstr "No se encontraron categorías."
+
+#: modules/cpt.php:152
+msgid "Poll categories"
+msgstr "Categorías"
+
+#: modules/cpt.php:213 modules/formElementsClass.php:1589
+#: modules/hooks.php:2219 modules/hooks.php:2680 modules/hooks.php:2789
+msgid "User Category"
+msgstr "Categoría del usuario"
+
+#: modules/cpt.php:223 modules/cpt.php:247
+msgid "Select category"
+msgstr "Seleccione categoría"
+
+#: modules/formElementsClass.php:53
+msgid "Amount of variants need to be bigger then max  variants value"
+msgstr ""
+"Cantidad de respuestas debe ser mayor que el número máximo de respuestas "
+"posibles"
+
+#: modules/formElementsClass.php:68 modules/formElementsClass.php:402
+#: modules/formElementsClass.php:491 modules/formElementsClass.php:567
+#: modules/formElementsClass.php:679
+msgid "Show?"
+msgstr "¿Mostrar?"
+
+#: modules/formElementsClass.php:69 modules/formElementsClass.php:403
+#: modules/formElementsClass.php:492 modules/formElementsClass.php:568
+msgid "Column"
+msgstr "Columna"
+
+#: modules/formElementsClass.php:70 modules/formElementsClass.php:404
+#: modules/formElementsClass.php:493 modules/formElementsClass.php:569
+msgid "Column label - Write your text"
+msgstr "Ingrese el texto deseado para el título de esta columna"
+
+#: modules/formElementsClass.php:79 modules/hooks.php:1204
+msgid "Poll was closed at:"
+msgstr "Fecha - hora del cierre de la votación:"
+
+#: modules/formElementsClass.php:81
+msgid "Fecha/hora de cierre de la votación"
+msgstr ""
+
+#: modules/formElementsClass.php:87
+msgid "Quorum at the closing time:"
+msgstr "Quórum al momento del cierre:"
+
+#: modules/formElementsClass.php:88
+msgid "Quórum al momento del cierre"
+msgstr ""
+
+#: modules/formElementsClass.php:94
+msgid "Total users that answered this poll:"
+msgstr "Total de usuarios que respondieron esta votación:"
+
+#: modules/formElementsClass.php:95
+msgid "Total de usuarios que votaron"
+msgstr ""
+
+#: modules/formElementsClass.php:101 modules/hooks.php:1278
+msgid ""
+"Total own shares + shares from proxies of users that voted in this poll:"
+msgstr "Total de de votos/coeficientes recibidos en esta votación:"
+
+#: modules/formElementsClass.php:102
+msgid "Total de coeficientes que participaron en esta votación"
+msgstr ""
+
+#: modules/formElementsClass.php:108
+msgid "Shares that didn’t vote:"
+msgstr "Usuarios/Coeficientes que no votaron del total de la organización:"
+
+#: modules/formElementsClass.php:109
+msgid "Shares that didn’t vote"
+msgstr ""
+
+#: modules/formElementsClass.php:115 modules/formElementsClass.php:116
+msgid "Quorum at the closing time minus shares that voted"
+msgstr "Abstenciones (Quórum al momento del cierre, menos votos recibidos)"
+
+#: modules/formElementsClass.php:133
+msgid "Enable/disable fields in the form"
+msgstr ""
+
+#: modules/formElementsClass.php:134
+msgid "Mandatory"
+msgstr ""
+
+#: modules/formElementsClass.php:135
+msgid "Field"
+msgstr ""
+
+#: modules/formElementsClass.php:136
+msgid "Field Label"
+msgstr ""
+
+#: modules/formElementsClass.php:149
+msgid "Email (Mandatory)"
+msgstr ""
+
+#: modules/formElementsClass.php:165 modules/formElementsClass.php:428
+#: modules/formElementsClass.php:641 modules/formElementsClass.php:642
+#: modules/formElementsClass.php:1210 modules/formElementsClass.php:1399
+#: modules/formElementsClass.php:1577 modules/formElementsClass.php:1732
+#: modules/formElementsClass.php:1844 modules/formElementsClass.php:1991
+#: modules/formElementsClass.php:2160 modules/hooks.php:2019
+#: modules/hooks.php:2207 modules/hooks.php:2547 modules/hooks.php:2582
+#: modules/hooks.php:2668 modules/hooks.php:2780 modules/hooks.php:2945
+#: modules/hooks.php:3034 modules/shortcodes.php:1067
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: modules/formElementsClass.php:180
+#, fuzzy
+#| msgid "Make message mandatory?"
+msgid "Name (Mandatory)"
+msgstr "¿Desea que sea obligatorio ingresar el mensaje?"
+
+#: modules/formElementsClass.php:196 modules/formElementsClass.php:421
+#: modules/formElementsClass.php:589 modules/formElementsClass.php:1212
+#: modules/formElementsClass.php:1401 modules/formElementsClass.php:1579
+#: modules/formElementsClass.php:1731 modules/formElementsClass.php:1847
+#: modules/formElementsClass.php:1990 modules/formElementsClass.php:2159
+#: modules/hooks.php:2021 modules/hooks.php:2209 modules/hooks.php:2546
+#: modules/hooks.php:2581 modules/hooks.php:2670 modules/hooks.php:2782
+#: modules/hooks.php:2948 modules/hooks.php:3033 modules/shortcodes.php:1064
+msgid "Last Name"
+msgstr "Apellido / Empresa / Apto"
+
+#: modules/formElementsClass.php:211
+msgid "Password (Mandatory)"
+msgstr ""
+
+#: modules/formElementsClass.php:227
+#, fuzzy
+#| msgid "Attach documents"
+msgid "File Attachment 1"
+msgstr "Adjuntar archivos"
+
+#: modules/formElementsClass.php:243
+#, fuzzy
+#| msgid "Attach documents"
+msgid "File Attachment 2"
+msgstr "Adjuntar archivos"
+
+#: modules/formElementsClass.php:259
+#, fuzzy
+#| msgid "Attach documents"
+msgid "File Attachment 3"
+msgstr "Adjuntar archivos"
+
+#: modules/formElementsClass.php:275
+#, fuzzy
+#| msgid "Attach documents"
+msgid "File Attachment 4"
+msgstr "Adjuntar archivos"
+
+#: modules/formElementsClass.php:291
+#, fuzzy
+#| msgid "Attach documents"
+msgid "File Attachment 5"
+msgstr "Adjuntar archivos"
+
+#: modules/formElementsClass.php:307 modules/formElementsClass.php:959
+#: modules/hooks.php:1977 modules/hooks.php:2036 modules/shortcodes.php:1689
+msgid "Message"
+msgstr "Mensaje: "
+
+#: modules/formElementsClass.php:325 modules/hooks.php:1558
+msgid "Checkbox 1"
+msgstr ""
+
+#: modules/formElementsClass.php:341 modules/hooks.php:1566
+msgid "Checkbox 2"
+msgstr ""
+
+#: modules/formElementsClass.php:357 modules/formElementsClass.php:376
+#, fuzzy
+#| msgid "Select User"
+msgid "Select menu 1"
+msgstr "Seleccionar usuario"
+
+#: modules/formElementsClass.php:362 modules/formElementsClass.php:381
+msgid "Options (Separate them by comma) "
+msgstr ""
+
+#: modules/formElementsClass.php:413 modules/formElementsClass.php:580
+#: modules/formElementsClass.php:1730 modules/formElementsClass.php:1989
+#: modules/formElementsClass.php:2158 modules/hooks.php:2020
+#: modules/hooks.php:2545 modules/hooks.php:2580 modules/hooks.php:3032
+#: modules/shortcodes.php:1061 modules/shortcodes.php:1643
+msgid "Name"
+msgstr "Nombre"
+
+#: modules/formElementsClass.php:415 modules/formElementsClass.php:583
+msgid "Nombre"
+msgstr ""
+
+#: modules/formElementsClass.php:422 modules/formElementsClass.php:590
+msgid "Apellido"
+msgstr ""
+
+#: modules/formElementsClass.php:429
+msgid "Usuario"
+msgstr ""
+
+#: modules/formElementsClass.php:435 modules/formElementsClass.php:436
+msgid "Total own shares + received in proxies shares (A+B)"
+msgstr "Suma del coeficiente/votos Propios + recibidos en poderes (A+B)"
+
+#: modules/formElementsClass.php:442 modules/formElementsClass.php:443
+msgid "User answer"
+msgstr "Respuesta del usuario"
+
+#: modules/formElementsClass.php:449 modules/formElementsClass.php:450
+msgid "User message"
+msgstr "Mensaje ingresado por el usuario"
+
+#: modules/formElementsClass.php:457 modules/formElementsClass.php:458
+msgid "Own shares (A)"
+msgstr "Coeficiente/Votos del usuario (A)"
+
+#: modules/formElementsClass.php:465 modules/formElementsClass.php:466
+msgid "Number of received shares"
+msgstr "Coeficiente/Votos recibidos en poderes (B)"
+
+#: modules/formElementsClass.php:472 modules/formElementsClass.php:473
+#: modules/formElementsClass.php:1219 modules/formElementsClass.php:1408
+#: modules/formElementsClass.php:1585 modules/hooks.php:2215
+#: modules/hooks.php:2676 modules/hooks.php:2788
+msgid "Date-time of answer"
+msgstr "Fecha-hora del voto"
+
+#: modules/formElementsClass.php:504
+msgid "Answer with horizontal bar"
+msgstr "Respuesta con barra de progreso horizontal"
+
+#: modules/formElementsClass.php:507
+msgid "Respuesta"
+msgstr ""
+
+#: modules/formElementsClass.php:513 modules/hooks.php:1075
+msgid "Amount of votes received in this answer"
+msgstr "Cantidad de usuarios que votaron en esta respuesta"
+
+#: modules/formElementsClass.php:514
+msgid "Cantidad de votos recibidos en esta respuesta"
+msgstr "Cantidad de votos recibidos en esta respuesta"
+
+#: modules/formElementsClass.php:520 modules/hooks.php:1076
+msgid "Total shares in this answer"
+msgstr "Coeficiente/votos totales recibidos en esta respuesta"
+
+#: modules/formElementsClass.php:521
+msgid ""
+"Cantidad de acciones que suman los votos que participaron en esta respuesta"
+msgstr ""
+
+#: modules/formElementsClass.php:527 modules/hooks.php:1077
+msgid "%"
+msgstr "% sobre el total de respuestas recibidas"
+
+#: modules/formElementsClass.php:528 modules/formElementsClass.php:535
+#: modules/formElementsClass.php:542 modules/formElementsClass.php:549
+msgid "Porcentaje"
+msgstr ""
+
+#: modules/formElementsClass.php:534 modules/hooks.php:1078
+#, php-format
+msgid ""
+"% of answers of the A+B shares over the quorum value that was present when "
+"the poll was closed"
+msgstr ""
+"% de las respuestas sobre los votos (coeficiente) presente al momento del "
+"cierre"
+
+#: modules/formElementsClass.php:541
+msgid "Number of voters (Me + Number. of received proxies)"
+msgstr "Cantidad de votantes (Usuario más poderes recibidos - Voto Nominal)"
+
+#: modules/formElementsClass.php:548
+#, php-format
+msgid "% of answers of the A+B shares over the organization total shares"
+msgstr ""
+"% de las respuestas recibidas sobre el total de coeficiente/acciones de la "
+"organización"
+
+#: modules/formElementsClass.php:597
+msgid "User shares (A)"
+msgstr "Coeficiente / Votos propios del usuario (A)"
+
+#: modules/formElementsClass.php:598
+msgid "Votos del usuario"
+msgstr "Votos (A+B)"
+
+#: modules/formElementsClass.php:604
+msgid "Proxies received"
+msgstr "Poderes que ha recibido el usuario"
+
+#: modules/formElementsClass.php:605
+msgid "Poderes que ha recibido"
+msgstr ""
+
+#: modules/formElementsClass.php:611
+msgid "Total shares of proxies received (B)"
+msgstr "Suma de los coeficientes / votos de los poderes recibidos (B)"
+
+#: modules/formElementsClass.php:612
+msgid "Votos propios + votos de Poderes"
+msgstr ""
+
+#: modules/formElementsClass.php:618 modules/formElementsClass.php:619
+msgid "Show NAME of users that assigned proxies"
+msgstr "Nombres de usuarios que otorgaron poder"
+
+#: modules/formElementsClass.php:626 modules/formElementsClass.php:627
+msgid "Show LAST NAMES of users that assigned proxies"
+msgstr "Apellidos/Apto/Empresa de usuarios que otorgaron poder"
+
+#: modules/formElementsClass.php:633
+msgid "Total A + B"
+msgstr "Suma del coeficiente / votos Propios + recibidos en poderes (A+B)"
+
+#: modules/formElementsClass.php:634
+msgid "&nbsp;"
+msgstr ""
+
+#: modules/formElementsClass.php:649 modules/formElementsClass.php:650
+msgid "Poll category"
+msgstr "Categoría de votación"
+
+#: modules/formElementsClass.php:657 modules/formElementsClass.php:658
+msgid "Number of received proxies + 1"
+msgstr "Cantidad de poderes recibidos más el voto propio"
+
+#: modules/formElementsClass.php:680
+msgid "Row"
+msgstr "Fila"
+
+#: modules/formElementsClass.php:681
+msgid "Row label - Write your text"
+msgstr "Ingrese el texto deseado para el título de esta fila"
+
+#: modules/formElementsClass.php:692 modules/formElementsClass.php:695
+msgid "Total current users online at this moment:"
+msgstr "Total de usuarios autenticados en este momento en este web:"
+
+#: modules/formElementsClass.php:701 modules/formElementsClass.php:702
+msgid "Total online shares at this moment:"
+msgstr ""
+"Suma de los coeficiente/votos propios que tienen los usuarios conectados:"
+
+#: modules/formElementsClass.php:708 modules/formElementsClass.php:709
+#, php-format
+msgid ""
+"% of shares out of the total for our organization, online at this moment:"
+msgstr ""
+"% sobre el coeficiente/votos totales de la organización que representan los "
+"usuarios autenticados en este momento: "
+
+#: modules/formElementsClass.php:715
+#, php-format
+msgid "% of total current users online out of the total for our organization:"
+msgstr ""
+"% del total de usuarios de la organización que representan los usuarios "
+"autenticados en este momento:"
+
+#: modules/formElementsClass.php:716
+#, php-format
+msgid ""
+"% sobre el total de votos de la organización que representan los usuarios "
+"autenticados en este momento"
+msgstr ""
+
+#: modules/formElementsClass.php:722 modules/formElementsClass.php:723
+msgid "Organization total shares :"
+msgstr "Coeficiente/Votos totales que tiene la organización:"
+
+#: modules/formElementsClass.php:729
+msgid "Total online own shares + received shares in proxies at this moment:"
+msgstr ""
+"Suma de los coeficientes / votos propios + recibidos en poderes que tienen "
+"los usuarios conectados:"
+
+#: modules/formElementsClass.php:730
+msgid "Total online own shares + received shares in proxies at this moment: "
+msgstr ""
+"Suma de los coeficiente/votos propios que tienen los usuarios conectados:"
+
+#: modules/formElementsClass.php:738
+msgid "Show number of online users per user category:"
+msgstr "Cantidad de usuarios online por categoría"
+
+#: modules/formElementsClass.php:739
+msgid "Show number of online users per user category: "
+msgstr ""
+
+#: modules/formElementsClass.php:745 modules/formElementsClass.php:746
+msgid ""
+"Show number of online total shares (Own + received from proxies) per user "
+"category"
+msgstr ""
+"Cantidad de coeficientes/votos (propio más recibidos en poderes) por "
+"categoría de usuario"
+
+#: modules/formElementsClass.php:753 modules/formElementsClass.php:754
+#, php-format
+msgid ""
+"% of own shares + received shares in proxies out of the total for our "
+"organization, online at this moment"
+msgstr ""
+"% de coeficiente/votos de los usuarios conectados + poderes recibidos, sobre "
+"el total de la organización"
+
+#: modules/formElementsClass.php:760 modules/formElementsClass.php:761
+msgid "Number of online users + number of proxies received by them"
+msgstr "Cantidad de votantes (Usuario más poderes recibidos - Voto Nominal)"
+
+#: modules/formElementsClass.php:793
+msgid "Add Variant"
+msgstr "Agregar opción de respuesta a la votación"
+
+#: modules/formElementsClass.php:800
+msgid "Variant"
+msgstr "Respuestas"
+
+#: modules/formElementsClass.php:801
+msgid "Choose ON to disable all other variants when user selects it"
+msgstr ""
+"Seleccione “Activar” para deshabilitar las otras posibles respuestas si esta "
+"opción es seleccionada por el usuario (Útil para voto en blanco)"
+
+#: modules/formElementsClass.php:802 modules/formElementsClass.php:1367
+msgid "Action"
+msgstr "Acciones"
+
+#: modules/formElementsClass.php:819 modules/hooks.php:4172
+#: modules/hooks.php:4182 modules/hooks.php:4192 modules/hooks.php:4205
+#: modules/hooks.php:4215 modules/hooks.php:4225 modules/hooks.php:4235
+msgid "Off"
+msgstr "Inactivar"
+
+#: modules/formElementsClass.php:820 modules/hooks.php:4171
+#: modules/hooks.php:4181 modules/hooks.php:4191 modules/hooks.php:4204
+#: modules/hooks.php:4214 modules/hooks.php:4224 modules/hooks.php:4234
+msgid "On"
+msgstr "Activar"
+
+#: modules/formElementsClass.php:824 modules/formElementsClass.php:837
+#: modules/formElementsClass.php:2723
+msgid "Remove"
+msgstr "Borrar"
+
+#: modules/formElementsClass.php:850 modules/formElementsClass.php:854
+msgid "DELETE ALL CURRENT ANSWERS IN THIS POLL?"
+msgstr "¿Borrar todas las respuestas recibidas en esta votación?"
+
+#: modules/formElementsClass.php:853 modules/formElementsClass.php:854
+#: modules/formElementsClass.php:2366 modules/formElementsClass.php:2665
+#: modules/scripts.php:92
+msgid "Are you sure? This action is not reversible"
+msgstr "¿Está seguro? Esta acción es irreversible"
+
+#: modules/formElementsClass.php:869
+msgid "Poll results reports"
+msgstr "Reportes de votaciones"
+
+#: modules/formElementsClass.php:871 modules/settings.php:502
+#: modules/settings.php:503
+msgid "Export all poll results"
+msgstr "1. Exportar resultados de todas las votaciones"
+
+#: modules/formElementsClass.php:872 modules/settings.php:1426
+#: modules/settings.php:1427
+msgid "Export single CSV with results summary"
+msgstr ""
+"2. Exportar archivo de texto separado por comas CSV (que puede abrir en "
+"Excel) con resumen de los resultados de las votaciones"
+
+#: modules/formElementsClass.php:873 modules/formElementsClass.php:1677
+#: modules/settings.php:1457 modules/settings.php:1458
+msgid "Export PDF with all results"
+msgstr ""
+"Exportar PDF con todas las votaciones (BETA. Esta opción puede demorarse o "
+"no funcionar si tiene muchas votaciones. Estamos en pruebas)"
+
+#: modules/formElementsClass.php:877
+msgid "Quorum reports"
+msgstr "Reportes sobre el Quórum"
+
+#: modules/formElementsClass.php:879
+msgid "Online users in time"
+msgstr "3. Resumen de usuarios conectados"
+
+#: modules/formElementsClass.php:880
+msgid "Quorum users"
+msgstr "Listado de nombres de usuarios conectados"
+
+#: modules/formElementsClass.php:881
+msgid "Users that logged in at least once in a time range"
+msgstr ""
+"4. Usuarios que iniciaron sesión en el sitio por lo menos una vez en un "
+"rango de tiempo"
+
+#: modules/formElementsClass.php:882
+msgid "Online users log"
+msgstr ""
+"5. Lista de usuarios conectados en los rangos de tiempo elegidos en: Ajustes "
+"para Quórum"
+
+#: modules/formElementsClass.php:885
+msgid "Email Reports"
+msgstr "Reporte del envío de Emails"
+
+#: modules/formElementsClass.php:887
+msgid "Sent emails report"
+msgstr "6. Emails enviados desde el submenu “Enviar email”"
+
+#: modules/formElementsClass.php:888
+msgid "Email open report"
+msgstr "7. Reporte del envío de Emails"
+
+#: modules/formElementsClass.php:891 modules/formElementsClass.php:1325
+#: modules/formElementsClass.php:2253
+msgid "Are you sure? This is not reversible"
+msgstr "¿Está seguro? Esta acción es irreversible"
+
+#: modules/formElementsClass.php:891
+msgid "Clear Database"
+msgstr ""
+"Limpiar Base de Datos (Esto borrará logs e información de reportes que se "
+"almacena en la base de datos)"
+
+#: modules/formElementsClass.php:911
+msgid "Select user that GIVES the proxy "
+msgstr "Seleccione usuario que OTORGA el poder "
+
+#: modules/formElementsClass.php:928
+msgid "Select user that RECEIVES the proxy  "
+msgstr "Seleccione el usuario que RECIBE el poder "
+
+#: modules/formElementsClass.php:945
+msgid "Assign"
+msgstr "Asignar"
+
+#: modules/formElementsClass.php:952 modules/formElementsClass.php:1843
+#: modules/formElementsClass.php:2157
+msgid "#"
+msgstr ""
+
+#: modules/formElementsClass.php:953 modules/hooks.php:1971
+msgid "User that gave proxy"
+msgstr "Usuario que otorgó el poder"
+
+#: modules/formElementsClass.php:954 modules/hooks.php:1972
+msgid "User that received the proxy"
+msgstr "Usuario que recibió el poder"
+
+#: modules/formElementsClass.php:955 modules/hooks.php:1974
+msgid "Given shares"
+msgstr "Coeficiente / Votos cedidos"
+
+#: modules/formElementsClass.php:956 modules/hooks.php:1973
+msgid "Date of action"
+msgstr "Fecha de la acción"
+
+#: modules/formElementsClass.php:957 modules/hooks.php:1976
+msgid "Proxy was given by user or admin?"
+msgstr "¿Quién otorgó el poder?"
+
+#: modules/formElementsClass.php:958 modules/shortcodes.php:1683
+msgid "Attach documents"
+msgstr "Adjuntar archivos"
+
+#: modules/formElementsClass.php:960 modules/hooks.php:1978
+msgid "Is external"
+msgstr "Es externo"
+
+#: modules/formElementsClass.php:961 modules/formElementsClass.php:2673
+#: modules/hooks.php:3786
+msgid "Actions"
+msgstr "Acciones"
+
+#: modules/formElementsClass.php:991 modules/formElementsClass.php:1569
+#: modules/hooks.php:1992 modules/hooks.php:4084 modules/hooks.php:4087
+#: modules/meta_box.php:183 modules/meta_box.php:190 modules/meta_box.php:197
+#: modules/meta_box.php:224 modules/settings.php:344 modules/settings.php:353
+#: modules/settings.php:363 modules/settings.php:373 modules/settings.php:413
+#: modules/settings.php:1023 modules/settings.php:1043
+#: modules/settings.php:1052 modules/settings.php:1224
+#: modules/settings.php:1294 modules/settings.php:1498
+#: modules/shortcodes.php:1638
+msgid "Yes"
+msgstr "Sí"
+
+#: modules/formElementsClass.php:991 modules/formElementsClass.php:1570
+#: modules/hooks.php:1992 modules/hooks.php:4094 modules/hooks.php:4096
+#: modules/meta_box.php:183 modules/meta_box.php:190 modules/meta_box.php:197
+#: modules/meta_box.php:224 modules/settings.php:343 modules/settings.php:352
+#: modules/settings.php:362 modules/settings.php:372 modules/settings.php:412
+#: modules/settings.php:1023 modules/settings.php:1043
+#: modules/settings.php:1052 modules/settings.php:1225
+#: modules/settings.php:1295 modules/settings.php:1498
+#: modules/shortcodes.php:1637
+msgid "No"
+msgstr "No"
+
+#: modules/formElementsClass.php:1015
+msgid "Change recipient"
+msgstr "Cambiar receptor"
+
+#: modules/formElementsClass.php:1030
+msgid "Remove Proxy"
+msgstr "Retirar poder"
+
+#: modules/formElementsClass.php:1046 modules/formElementsClass.php:1335
+#: modules/formElementsClass.php:1519
+msgid "Export to CSV"
+msgstr "Exportar a archivo CSV"
+
+#: modules/formElementsClass.php:1192 modules/hooks.php:1193
+#: modules/shortcodes.php:3053
+msgid "Total"
+msgstr "Total"
+
+#: modules/formElementsClass.php:1206
+msgid "Voted Users"
+msgstr "Usuarios que han votado"
+
+#: modules/formElementsClass.php:1211 modules/formElementsClass.php:1400
+#: modules/formElementsClass.php:1578 modules/formElementsClass.php:1846
+#: modules/hooks.php:2208 modules/hooks.php:2669 modules/hooks.php:2781
+#: modules/hooks.php:2947
+msgid "First name"
+msgstr "Nombre"
+
+#: modules/formElementsClass.php:1213 modules/formElementsClass.php:1402
+#: modules/formElementsClass.php:1580 modules/hooks.php:2210
+#: modules/hooks.php:2583 modules/hooks.php:2671 modules/hooks.php:2783
+msgid "Own Shares (A)"
+msgstr "Coeficiente/Votos del usuario (A)"
+
+#: modules/formElementsClass.php:1214 modules/formElementsClass.php:1403
+#: modules/formElementsClass.php:1581 modules/hooks.php:2211
+#: modules/hooks.php:2672 modules/hooks.php:2784
+msgid "Proxys amount received by user"
+msgstr "Poderes que ha recibido el usuario"
+
+#: modules/formElementsClass.php:1215 modules/formElementsClass.php:1404
+msgid ""
+"Total shares of received proxys \n"
+"\t\t\t\t\t\t\t(B)"
+msgstr ""
+"Suma del coeficiente/votos de los poderes recibidos  \n"
+"\t\t\t\t\t\t\t(B)"
+
+#: modules/formElementsClass.php:1217 modules/formElementsClass.php:1406
+#: modules/formElementsClass.php:1583 modules/hooks.php:2213
+#: modules/hooks.php:2674 modules/hooks.php:2786
+msgid "Total Shares (A + B)"
+msgstr "Coeficiente /Votos totales que tiene el usuario (A + B)"
+
+#: modules/formElementsClass.php:1218 modules/formElementsClass.php:1407
+#: modules/formElementsClass.php:1584 modules/hooks.php:2214
+#: modules/hooks.php:2675 modules/hooks.php:2787
+msgid "Answer given by user"
+msgstr "Respuesta dada por el usuario"
+
+#: modules/formElementsClass.php:1220 modules/formElementsClass.php:1586
+#: modules/hooks.php:2216 modules/hooks.php:2677
+msgid "User IP"
+msgstr "IP del usuario"
+
+#: modules/formElementsClass.php:1221 modules/formElementsClass.php:1587
+#: modules/hooks.php:2217 modules/hooks.php:2678
+msgid "User Browser"
+msgstr "Browser del usuario"
+
+#: modules/formElementsClass.php:1222 modules/formElementsClass.php:1588
+#: modules/hooks.php:1552 modules/hooks.php:2218 modules/hooks.php:2679
+msgid "User Message"
+msgstr "Mensaje ingresado por el usuario"
+
+#: modules/formElementsClass.php:1223 modules/formElementsClass.php:1409
+msgid "Admin action"
+msgstr "Acción"
+
+#: modules/formElementsClass.php:1303 modules/formElementsClass.php:1494
+#: modules/hooks.php:4344 modules/hooks.php:4360 modules/hooks.php:4376
+#: modules/hooks.php:4392 modules/settings.php:449 modules/settings.php:706
+#: modules/settings.php:957 modules/settings.php:1064 modules/settings.php:1121
+#: modules/settings.php:1185 modules/settings.php:1343
+#: modules/settings.php:1511
+msgid "Save"
+msgstr "Guardar"
+
+#: modules/formElementsClass.php:1325 modules/formElementsClass.php:1508
+#: modules/hooks.php:4341 modules/hooks.php:4357 modules/hooks.php:4373
+#: modules/hooks.php:4389
+msgid "Edit"
+msgstr "Editar"
+
+#: modules/formElementsClass.php:1325 modules/formElementsClass.php:1381
+#: modules/formElementsClass.php:1508
+msgid "Delete"
+msgstr "Borrar"
+
+#: modules/formElementsClass.php:1333 modules/formElementsClass.php:1517
+msgid "Show Not Voted Users"
+msgstr "Mostrar usuarios que no han votado"
+
+#: modules/formElementsClass.php:1340
+msgid "Total:"
+msgstr ""
+
+#: modules/formElementsClass.php:1361
+msgid "Current quorum when poll was closed:"
+msgstr "Quórum al momento del cierre de la votación:"
+
+#: modules/formElementsClass.php:1365
+msgid "Closing time"
+msgstr "Fecha/hora de cierre"
+
+#: modules/formElementsClass.php:1366
+msgid "“total online shares a+b”  at closing times of the poll"
+msgstr "Coeficiente/votos totales de los usuarios conectados en este momento"
+
+#: modules/formElementsClass.php:1395
+msgid "Not voted"
+msgstr "Usuarios que no han ingresado su respuesta en esta votación"
+
+#: modules/formElementsClass.php:1524
+msgid "Total users that have not voted in this poll:"
+msgstr "Lista de usuarios que no han votado:"
+
+#: modules/formElementsClass.php:1557
+msgid ""
+"Export and download in separate CSV files (one for each poll),  the poll "
+"results of all polls with at least 1 answer"
+msgstr ""
+"Exportar en archivos de texto (CSV), los resultados de las votaciones, en "
+"las que se ha recibido por lo menos una respuesta"
+
+#: modules/formElementsClass.php:1566
+msgid "Do you want to include user answers?"
+msgstr ""
+"Seleccione campos a incluir en los archivos. Pulse CTRL para seleccionar "
+"múltiples campos y luego haga click sobre los campos deseados."
+
+#: modules/formElementsClass.php:1582 modules/hooks.php:2212
+#: modules/hooks.php:2673 modules/hooks.php:2785
+msgid "Total shares of received proxys (B)"
+msgstr "Suma del coeficiente /votos de los poderes recibidos (B)"
+
+#: modules/formElementsClass.php:1617
+msgid "Select poll category to export"
+msgstr "Seleccione la categoría de las votaciones a exportar"
+
+#: modules/formElementsClass.php:1619 modules/shortcodes.php:1051
+msgid "All"
+msgstr "Todos"
+
+#: modules/formElementsClass.php:1636
+msgid "Export"
+msgstr "Exportar a archivo CSV"
+
+#: modules/formElementsClass.php:1650 modules/formElementsClass.php:1670
+msgid ""
+"This will allow you to create and download a CSV file with the results of "
+"all polls with at least one answer, including the COLUMNS and ROWS that you "
+"have selected at EXTRA-SETTINGS <a href=\"%link%\">(Click here to modify "
+"them)</a>."
+msgstr ""
+"<h2>Exportar archivo de texto separado por comas CSV (que puede abrir en "
+"Excel), con resumen de los resultados de las votaciones</h2>Esto le "
+"permitirá crear y descargar un archivo CSV con los resultados de todas las "
+"votaciones que han recibido por lo menos una respuesta, incluyendo las "
+"columnas y filas, que Ud tiene activas en la configuración de los "
+"resultados  <a href=“%link%”>(Click aquí para modificarlos))</a>."
+
+#: modules/formElementsClass.php:1656
+msgid "Create CSV file"
+msgstr "Crear archivo CSV"
+
+#: modules/formElementsClass.php:1706 modules/formElementsClass.php:1965
+msgid "Select start date / time:"
+msgstr "Ingrese fecha/hora inicial:"
+
+#: modules/formElementsClass.php:1710 modules/formElementsClass.php:1969
+msgid "Select end date / time:"
+msgstr "Ingrese fecha/hora final:"
+
+#: modules/formElementsClass.php:1714 modules/formElementsClass.php:1827
+#: modules/formElementsClass.php:1973 modules/settings.php:220
+#: modules/settings.php:246 modules/settings.php:1263
+#: modules/shortcodes.php:2731
+msgid "Submit"
+msgstr "Enviar"
+
+#: modules/formElementsClass.php:1733 modules/formElementsClass.php:1992
+msgid "Total shares A+B"
+msgstr "Coeficiente /Votos totales que tiene el usuario (A+B)"
+
+#: modules/formElementsClass.php:1788 modules/formElementsClass.php:1938
+#: modules/formElementsClass.php:2044 modules/formElementsClass.php:2097
+#: modules/formElementsClass.php:2251 modules/shortcodes.php:1134
+msgid "Export as CSV"
+msgstr "Exportar como CSV"
+
+#: modules/formElementsClass.php:1822
+msgid "Search:"
+msgstr "Buscar:"
+
+#: modules/formElementsClass.php:1845 modules/hooks.php:1001
+#: modules/hooks.php:2022 modules/hooks.php:2946 modules/shortcodes.php:1648
+msgid "Email"
+msgstr ""
+"Emails a los cuales desea enviar copia de cada respuesta de la votación"
+
+#: modules/formElementsClass.php:1848 modules/hooks.php:2949
+#, fuzzy
+#| msgid "Select end date / time:"
+msgid "Email open date and time"
+msgstr "Ingrese fecha/hora final:"
+
+#: modules/formElementsClass.php:1849 modules/hooks.php:2950
+msgid "IP"
+msgstr ""
+
+#: modules/formElementsClass.php:1850 modules/hooks.php:2951
+msgid "Email Subject"
+msgstr "Asunto"
+
+#: modules/formElementsClass.php:1893 modules/hooks.php:2961
+#, fuzzy
+#| msgid "Not voted"
+msgid "Not defined"
+msgstr "Usuarios que no han ingresado su respuesta en esta votación"
+
+#: modules/formElementsClass.php:1939
+#, fuzzy
+#| msgid "Are you sure you want to delete all saved data for quorum?"
+msgid "Are you sure you want to delete all data?"
+msgstr ""
+"¿Esta seguro de borrar los datos del quórum (Esta acción es irreversible)?"
+
+#: modules/formElementsClass.php:1939
+msgid "Clear all records"
+msgstr "Borrar todos los registros"
+
+#: modules/formElementsClass.php:2071 modules/hooks.php:3000
+#: modules/hooks.php:3031
+msgid "Date"
+msgstr "Fecha"
+
+#: modules/formElementsClass.php:2072 modules/hooks.php:3000
+msgid "Time"
+msgstr "Hora"
+
+#: modules/formElementsClass.php:2073 modules/hooks.php:3000
+msgid "Total current users online at this moment"
+msgstr "Total de usuarios conectados en este momento"
+
+#: modules/formElementsClass.php:2074 modules/hooks.php:3000
+msgid "Total online shares at this moment"
+msgstr "Coeficiente/votos totales de los usuarios conectados en este momento"
+
+#: modules/formElementsClass.php:2075 modules/hooks.php:3000
+#, php-format
+msgid ""
+"% of shares out of the total for our organization, online at this moment"
+msgstr ""
+"% de coeficiente/votos de los usuarios conectados en este momento, del total "
+"que tiene la organización"
+
+#: modules/formElementsClass.php:2099
+msgid "Are you sure you want to delete all saved data for quorum?"
+msgstr ""
+"¿Esta seguro de borrar los datos del quórum (Esta acción es irreversible)?"
+
+#: modules/formElementsClass.php:2099 modules/formElementsClass.php:2253
+msgid "Delete all records"
+msgstr "Borrar todos los registros"
+
+#: modules/formElementsClass.php:2153
+msgid "Online users at: "
+msgstr "Usuarios online a las: "
+
+#: modules/formElementsClass.php:2162 modules/hooks.php:1002
+#: modules/hooks.php:2025 modules/hooks.php:3035
+msgid "Own Shares"
+msgstr "Coeficiente/Votos del usuario"
+
+#: modules/formElementsClass.php:2163 modules/hooks.php:3036
+msgid "Recieved Proxies"
+msgstr "Poderes recibidos"
+
+#: modules/formElementsClass.php:2164 modules/hooks.php:3037
+msgid "Shares in proxies"
+msgstr "Votos / coeficiente en los poderes recibidos"
+
+#: modules/formElementsClass.php:2165
+msgid "Total shares"
+msgstr ""
+"Coeficiente/Votos totales (propios más recibidos de poderes) que tiene el "
+"usuario"
+
+#: modules/formElementsClass.php:2249
+msgid "Show all records on single page"
+msgstr "Ver todos los registros en una sola página"
+
+#: modules/formElementsClass.php:2325
+msgid "Total users with can vote=1:"
+msgstr "Total de usuarios que pueden votar:"
+
+#: modules/formElementsClass.php:2329
+msgid "Total own shares (A):"
+msgstr "Coeficiente /Votos totales que tiene el usuario (A):"
+
+#: modules/formElementsClass.php:2333
+msgid "Total shares received in proxies (B):"
+msgstr "Suma del coeficiente /votos de los poderes recibidos (B)"
+
+#: modules/formElementsClass.php:2337
+msgid "Total (A+B):"
+msgstr "Coeficiente /Votos totales que tiene el usuario (A+B)"
+
+#: modules/formElementsClass.php:2483
+msgid "Select All"
+msgstr "Seleccionar todos"
+
+#: modules/formElementsClass.php:2483
+msgid "Unselect All"
+msgstr "Des-seleccionar todos"
+
+#: modules/formElementsClass.php:2487
+msgid "Search for users"
+msgstr "Buscar usuarios"
+
+#: modules/formElementsClass.php:2511
+msgid "users selected"
+msgstr "usuarios seleccionados"
+
+#: modules/formElementsClass.php:2597
+#, php-format
+msgid ""
+"%d emails were sent in the last massive email that was sent. Click here to "
+"see the <a href='%s'>email log</a>"
+msgstr ""
+"%d emails se enviaron en el último envío.  <a href=“%s”>Vea aquí el registro "
+"del envío</a>"
+
+#: modules/formElementsClass.php:2608
+#, php-format
+msgid ""
+"Your last massive email failed to send the message to all selected users.  "
+"Only %d out of %d were sent. Click <a href=\"#\" class=\"send_full_emails\" "
+"data-continue=\"1\">here</a> to continue sending the message to the "
+"remaining users. Click <a href=\"#\" class=\"drop_email_queue\"  >here</a> "
+"to cancel and reset the sending queue"
+msgstr ""
+
+#: modules/formElementsClass.php:2665
+msgid "Delete All Logs"
+msgstr "Borrar todos los registros"
+
+#: modules/formElementsClass.php:2670
+msgid "Sending Date - Time"
+msgstr "Fecha-hora del envío"
+
+#: modules/formElementsClass.php:2671
+msgid "Email was sent to this amount of users"
+msgstr "El email fue enviado a esta cantidad de usuarios:"
+
+#: modules/formElementsClass.php:2672
+msgid "Users"
+msgstr "Usuarios:"
+
+#: modules/formElementsClass.php:2701 modules/formElementsClass.php:2709
+msgid "Sent"
+msgstr "Enviado"
+
+#: modules/formElementsClass.php:2703 modules/formElementsClass.php:2711
+msgid "Error"
+msgstr ""
+
+#: modules/formElementsClass.php:2722
+msgid "View"
+msgstr "Ver"
+
+#: modules/formElementsClass.php:2724
+msgid "Re-Use"
+msgstr "Re-utilizar"
+
+#: modules/formElementsClass.php:2725
+msgid "Show Report"
+msgstr "Ver reporte del envío"
+
+#: modules/hooks.php:39
+msgid "Allow login"
+msgstr "Permitir login"
+
+#: modules/hooks.php:43
+msgid "Suspend Logins"
+msgstr "Suspender login a todos los usuarios"
+
+#: modules/hooks.php:48
+msgid "Allow only re-login"
+msgstr "Suspender login desde cierta hora"
+
+#: modules/hooks.php:67
+msgid "Export Users"
+msgstr "Exportar usuarios"
+
+#: modules/hooks.php:93
+msgid "Access to the site to logged out users is suspended at this moment."
+msgstr "Acceso al web esta suspendido en este momento."
+
+#: modules/hooks.php:109 modules/hooks.php:117
+msgid ""
+"Your login to the  website has been disabled. If you have any doubt, please "
+"contact the administrator"
+msgstr ""
+
+#: modules/hooks.php:127
+msgid "Sorry, you can't access this site at this moment."
+msgstr "No se puede acceder al sitio en este momento."
+
+#: modules/hooks.php:364
+#, fuzzy
+#| msgid "Email"
+msgid "Email: "
+msgstr ""
+"Emails a los cuales desea enviar copia de cada respuesta de la votación"
+
+#: modules/hooks.php:367
+#, fuzzy
+#| msgid "Name"
+msgid "Name: "
+msgstr "Nombre"
+
+#: modules/hooks.php:370
+#, fuzzy
+#| msgid "Password_to_send: "
+msgid "Password: "
+msgstr "Clave a enviar al usuario en la opción VOTACIONES / ENVIAR EMAIl"
+
+#: modules/hooks.php:428 modules/hooks.php:957
+msgid "Username: "
+msgstr "Nombre de usuario: "
+
+#: modules/hooks.php:486
+#, fuzzy
+#| msgid "Select All"
+msgid "Select 1: "
+msgstr "Seleccionar todos"
+
+#: modules/hooks.php:487
+#, fuzzy
+#| msgid "Select All"
+msgid "Select 2: "
+msgstr "Seleccionar todos"
+
+#: modules/hooks.php:492
+#, fuzzy
+#| msgid "Message"
+msgid "Message: "
+msgstr "Mensaje: "
+
+#: modules/hooks.php:537
+msgid "Attach %: "
+msgstr ""
+
+#: modules/hooks.php:548
+msgid "New preapproved user has registered in the site – {username}"
+msgstr ""
+
+#: modules/hooks.php:941
+msgid "Vote for "
+msgstr "Voto en la pregunta: "
+
+#: modules/hooks.php:945
+msgid "Vote name: "
+msgstr "Titulo de la votación: "
+
+#: modules/hooks.php:948
+msgid "Vote answer:"
+msgstr "Respuesta:"
+
+#: modules/hooks.php:956
+msgid "Date – Time of vote: "
+msgstr "Fecha – hora de la respuesta: "
+
+#: modules/hooks.php:958
+msgid "User:"
+msgstr "Usuario:"
+
+#: modules/hooks.php:959
+msgid "User Email: "
+msgstr "Email del usuario: "
+
+#: modules/hooks.php:960
+msgid "User IP:"
+msgstr "IP del usuario:"
+
+#: modules/hooks.php:961
+msgid "Own Shares:"
+msgstr "Coeficiente/Votos del usuario:"
+
+#: modules/hooks.php:962
+msgid "Proxys amount:"
+msgstr "Poderes recibidos por el usuario:"
+
+#: modules/hooks.php:963
+msgid "Total Shares:"
+msgstr ""
+"Coeficiente/Votos totales (propios más recibidos de poderes) que tiene el "
+"usuario:"
+
+#: modules/hooks.php:965
+msgid "User Message:"
+msgstr "Mensaje ingresado por el usuario:"
+
+#: modules/hooks.php:1000
+msgid "Login"
+msgstr ""
+
+#: modules/hooks.php:1074
+msgid "Poll Title"
+msgstr "Título de la votación"
+
+#: modules/hooks.php:1217
+msgid "Quorum at the closing time"
+msgstr "Quórum al momento del cierre:"
+
+#: modules/hooks.php:1269
+msgid "Total users that answered this poll"
+msgstr "Total de usuarios que respondieron esta votación:"
+
+#: modules/hooks.php:1362
+msgid "Shares that didn't vote"
+msgstr "Usuarios/coeficientes que no votaron del total de la organización"
+
+#: modules/hooks.php:1468
+msgid "Extra profile information"
+msgstr "Datos del usuario para sus votos"
+
+#: modules/hooks.php:1473 modules/hooks.php:2024
+msgid "Can Vote"
+msgstr "¿Puede votar? (Para SÍ ingrese 1, para NO ingrese 0)"
+
+#: modules/hooks.php:1480
+msgid "Own Shares (For decimals use . )"
+msgstr "Votos / coeficiente propio (Para decimales use .)"
+
+#: modules/hooks.php:1486
+msgid "Proxys amount (For decimals use . )"
+msgstr "Poderes que ha recibido el usuario"
+
+#: modules/hooks.php:1492
+msgid "Total shares of received Proxys (For decimals use . )"
+msgstr "Suma del coeficiente /votos de los poderes recibidos (B)"
+
+#: modules/hooks.php:1498
+msgid "Password to send "
+msgstr "Password a enviar al usuario."
+
+#: modules/hooks.php:1504
+msgid "Additional emails for sending messages"
+msgstr "Emails adicionales para enviar mensajes"
+
+#: modules/hooks.php:1512
+msgid "Custom 1"
+msgstr "Campo personalizado 1"
+
+#: modules/hooks.php:1518
+msgid "Custom 2"
+msgstr "Campo personalizado 2"
+
+#: modules/hooks.php:1524
+msgid "Disable login in this website to this user"
+msgstr ""
+
+#: modules/hooks.php:1533
+#, fuzzy
+#| msgid "User votes"
+msgid "User Files"
+msgstr "Votos del usuario"
+
+#: modules/hooks.php:1574
+#, fuzzy
+#| msgid "Select All"
+msgid "Select 1"
+msgstr "Seleccionar todos"
+
+#: modules/hooks.php:1582
+#, fuzzy
+#| msgid "Select All"
+msgid "Select 2"
+msgstr "Seleccionar todos"
+
+#: modules/hooks.php:1594
+msgid "User polls info"
+msgstr "Votaciones que ha respondido el usuario"
+
+#: modules/hooks.php:1604
+msgid "Poll Name"
+msgstr "Votación"
+
+#: modules/hooks.php:1605 modules/hooks.php:3773 modules/shortcodes.php:885
+msgid "Poll Category"
+msgstr "Categoría"
+
+#: modules/hooks.php:1606
+msgid "User Answer"
+msgstr "Respuesta del usuario"
+
+#: modules/hooks.php:1607
+msgid "Date/time of the answer"
+msgstr "Fecha-hora del voto"
+
+#: modules/hooks.php:1664
+msgid "Send polls plugin email to only this user"
+msgstr "Enviar email del plugin WP-ASAMBLEAS a este usuario"
+
+#: modules/hooks.php:1665
+#, php-format
+msgid ""
+"Use this option to send email to this user with content written at SEND "
+"EMAIL page. <a href=\"%s\">Click here to see it</a> / edit it."
+msgstr ""
+"Use esta opción para enviar un email personalizado a este usuario. Usando "
+"una de las plantillas de envios que tengan en el plugin de votaciones WP-"
+"ASAMBLEAS."
+
+#: modules/hooks.php:1673
+msgid "Choose template"
+msgstr "Seleccione plantilla de envío de emails a usar"
+
+#: modules/hooks.php:1698
+msgid "Preview email"
+msgstr "Revisar email"
+
+#: modules/hooks.php:1704
+msgid ""
+"The following is a preview of the email that will be sent. Please review it "
+"and if it is OK, click on the SEND button below"
+msgstr ""
+"A continuación puede ver cómo verá el usuario al mensaje al recibirlo. Para "
+"enviarlo pulse el botón ENVIAR EMAIL de abajo"
+
+#: modules/hooks.php:1706 modules/settings.php:574 modules/settings.php:575
+msgid "Send email"
+msgstr "Enviar email"
+
+#: modules/hooks.php:2023
+msgid "password_to_send"
+msgstr "Clave a enviar al usuario en la opción VOTACIONES / ENVIAR EMAIL"
+
+#: modules/hooks.php:2026
+msgid "Proxys amount"
+msgstr "Poderes recibidos por el usuario"
+
+#: modules/hooks.php:2027
+msgid "Total shares of received Proxys"
+msgstr "Suma del coeficiente /votos de los poderes recibidos (B)"
+
+#: modules/hooks.php:2028
+msgid "Poll Names"
+msgstr "Votaciones"
+
+#: modules/hooks.php:2029
+#, fuzzy
+#| msgid "Proxies received"
+msgid "Proxies received names"
+msgstr "Poderes que ha recibido el usuario"
+
+#: modules/hooks.php:2030
+#, fuzzy
+#| msgid "Proxies received"
+msgid "Proxies received last names"
+msgstr "Poderes que ha recibido el usuario"
+
+#: modules/hooks.php:2031
+#, fuzzy
+#| msgid "Additional emails for sending messages"
+msgid "Additional emails"
+msgstr "Emails adicionales para enviar mensajes"
+
+#: modules/hooks.php:2033 modules/hooks.php:4301 modules/hooks.php:4408
+msgid "User category"
+msgstr "Categoría del usuario"
+
+#: modules/hooks.php:2034
+#, fuzzy
+#| msgid "Custom field 1: "
+msgid "Custom field 1"
+msgstr "Campo personalizado 1"
+
+#: modules/hooks.php:2035
+#, fuzzy
+#| msgid "Custom field 2: "
+msgid "Custom field 2"
+msgstr "Campo personalizado 2"
+
+#: modules/hooks.php:2037
+msgid "select menu 1"
+msgstr ""
+
+#: modules/hooks.php:2038
+msgid "select menu 2"
+msgstr ""
+
+#: modules/hooks.php:2039
+msgid "attachement 1 url"
+msgstr ""
+
+#: modules/hooks.php:2040
+msgid "attachement 2 url"
+msgstr ""
+
+#: modules/hooks.php:2041
+msgid "attachement 3 url"
+msgstr ""
+
+#: modules/hooks.php:2042
+msgid "attachement 4 url"
+msgstr ""
+
+#: modules/hooks.php:2043
+msgid "attachement 5 url"
+msgstr ""
+
+#: modules/hooks.php:2548 modules/hooks.php:2586 modules/shortcodes.php:1078
+msgid "Total Sshares (A+B)"
+msgstr "Coeficiente /Votos totales que tiene el usuario (A+B)"
+
+#: modules/hooks.php:2584 modules/shortcodes.php:1073
+msgid "Proxies Received"
+msgstr "Poderes que ha recibido el usuario"
+
+#: modules/hooks.php:2585
+msgid "Shares of proxies received (B)"
+msgstr "Suma de los coeficientes de los poderes recibidos (B)"
+
+#: modules/hooks.php:2587
+msgid "Current Online Status"
+msgstr "Estado actual de conexión"
+
+#: modules/hooks.php:3208
+msgid "Proxy assigned to external user"
+msgstr "Poder asignado a usuario externo"
+
+#: modules/hooks.php:3209
+#, php-format
+msgid "User %u1 assigned proxy to user %u2"
+msgstr "El usuario %u1 asignó poder a  %u2"
+
+#: modules/hooks.php:3457
+#, php-format
+msgid "Sorry, you allowed to create only %d polls."
+msgstr ""
+"<h2>Disculpas. Esta versión del plugin de Asambleas solo te permite crear 2 "
+"votaciones. <a href=https://asamblea.co/producto/plugin-asambleas-"
+"platcom>Adquiere aquí</a> la versión premium y crea votaciones ilimitadas</"
+"h2>"
+
+#: modules/hooks.php:3745
+msgid "Category ID"
+msgstr "ID de la Categoría"
+
+#: modules/hooks.php:3772 modules/hooks.php:3993
+msgid "Title"
+msgstr "Título"
+
+#: modules/hooks.php:3775
+msgid "Total users that have voted"
+msgstr "Usuarios que han votado"
+
+#: modules/hooks.php:3776
+msgid "Sum of total shares"
+msgstr "Votos/ coeficientes totales recibidos"
+
+#: modules/hooks.php:3908 modules/hooks.php:4168
+msgid "Show poll at poll page?"
+msgstr "¿Mostrar en página global de votaciones?"
+
+#: modules/hooks.php:3920 modules/hooks.php:4178
+msgid "Vote is open?"
+msgstr "¿Abrir el voto?"
+
+#: modules/hooks.php:3920
+msgid "Latest closing date/time:"
+msgstr "Ultima fecha/hora de cierre:"
+
+#: modules/hooks.php:3926 modules/hooks.php:4197
+msgid "Global results page:"
+msgstr "Mostrar en página global de resultados:"
+
+#: modules/hooks.php:3937 modules/hooks.php:4201
+msgid "Show answers data top table?"
+msgstr "Tabla superior de datos"
+
+#: modules/hooks.php:3948 modules/hooks.php:4211
+msgid "Show list of users that have not voted"
+msgstr "Lista de usuarios que no han votado"
+
+#: modules/hooks.php:3957 modules/hooks.php:4221
+msgid "Show list of users that have voted"
+msgstr "Lista de usuarios que han votado"
+
+#: modules/hooks.php:3966 modules/hooks.php:4231
+msgid "Show users answer"
+msgstr "Respuesta del usuario"
+
+#: modules/hooks.php:3994
+msgid "Scheduled date/time"
+msgstr "Fecha de envio"
+
+#: modules/hooks.php:3996
+msgid "Status"
+msgstr "Estado"
+
+#: modules/hooks.php:4015 modules/meta_box.php:341
+msgid "Now"
+msgstr "En este momento"
+
+#: modules/hooks.php:4018 modules/meta_box.php:341
+msgid "Draft"
+msgstr "Guardar como borrador sin enviar"
+
+#: modules/hooks.php:4030
+msgid "Finished at "
+msgstr ""
+
+#: modules/hooks.php:4032
+msgid "Sending"
+msgstr "Enviando"
+
+#: modules/hooks.php:4034
+msgid "Pending"
+msgstr "Pendiente"
+
+#: modules/hooks.php:4080 modules/hooks.php:4306
+msgid "Can vote?"
+msgstr "¿Puede votar? (1=Si. 0=No)"
+
+#: modules/hooks.php:4139
+msgid "Poll categories:"
+msgstr "Categorías:"
+
+#: modules/hooks.php:4161
+msgid ""
+"MASSIVE ACTIONS: Select action to apply to all created polls at the same "
+"time with one click:"
+msgstr ""
+"ACCIONES MASIVAS: Seleccione una acción para aplicar a todas las votaciones:"
+
+#: modules/hooks.php:4170 modules/hooks.php:4180 modules/hooks.php:4190
+#: modules/hooks.php:4203 modules/hooks.php:4213 modules/hooks.php:4223
+#: modules/hooks.php:4233
+msgid "Select action"
+msgstr "Seleccione acción"
+
+#: modules/hooks.php:4188
+msgid "Open popup in user’s screens"
+msgstr "¿Abrir popup de votación en pantallas de votantes?"
+
+#: modules/hooks.php:4307
+msgid "Own shares? (For decimals use . )"
+msgstr "Coeficiente / votos propios (Para decimales use . )"
+
+#: modules/hooks.php:4308
+msgid "Received proxies (For decimals use . )"
+msgstr "Cantidad de poderes recibidos"
+
+#: modules/hooks.php:4309
+msgid "Sum of received shares in proxies (For decimals use . )"
+msgstr ""
+"Suma de coeficientes / votos en los poderes recibidos (Para decimales use . )"
+
+#: modules/hooks.php:4462
+msgid "Poll Categories:"
+msgstr "Categorías de votaciones:"
+
+#: modules/hooks.php:4482
+#, php-format
+msgid ""
+"If you choose for any poll the option show users answer, remember to select "
+"the column USER ANSWER clicking <a href=\"%s\">here</a>"
+msgstr ""
+"Si activa para alguna votación la casilla para mostrar “Respuesta del "
+"usuario”, recuerde activar también la casilla RESPUESTA DEL USUARIO en las "
+"columnas de “Ajustes resultados de votaciones”"
+
+#: modules/hooks.php:4514
+msgid "Logout and remove from quorum"
+msgstr "Cerrar sesión y remover de quórum"
+
+#: modules/license-function.php:16
+msgid "License"
+msgstr "Licencia"
+
+#: modules/license-function.php:21
+msgid "License Management"
+msgstr "Gestión de la licencia"
+
+#: modules/license-function.php:42 modules/license-function.php:101
+msgid "Unexpected Error! The query returned with an error."
+msgstr ""
+
+#: modules/license-function.php:59 modules/license-function.php:73
+#: modules/license-function.php:116 modules/license-function.php:126
+msgid "The following message was returned from the server: "
+msgstr "El siguiente mensaje ha sido recibido del servidor de licencias"
+
+#: modules/license-function.php:134
+msgid ""
+"Please enter the license key for this product to activate it. You were given "
+"a license key when you purchased this item"
+msgstr ""
+"Por favor ingrese la licencia del plugin para activarlo. La cual debe "
+"recibir del fabricante del mismo. <a href=https://asamblea.co/plugin-para-"
+"wordpress/>Pulse aquí para comprar licencias</a>. Si requiere inactivar su "
+"licencia para activarla en otro dominio, ingrésela y luego pulse el botón "
+"Desactivar"
+
+#: modules/license-function.php:139
+msgid "License Key"
+msgstr "Código de la licencia"
+
+#: modules/license-function.php:144
+msgid "Activate"
+msgstr "Activar"
+
+#: modules/license-function.php:145
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: modules/meta_box.php:100
+msgid "Select Term"
+msgstr ""
+
+#: modules/meta_box.php:112
+msgid "Poll Variants"
+msgstr "Respuestas"
+
+#: modules/meta_box.php:124
+msgid "Show Poll Shortcode"
+msgstr ""
+"Shortcode para mostrar la votación (Cópielo y péguelo en la página donde "
+"desee se muestre esta votación)"
+
+#: modules/meta_box.php:129
+msgid "Show Poll Results Shortcode"
+msgstr ""
+"Shortcode para mostrar resultados de la votación (Cópielo y péguelo en la "
+"página donde desee se muestren los resultados de esta votación)"
+
+#: modules/meta_box.php:135
+msgid "Poll Type"
+msgstr "Tipo de votación"
+
+#: modules/meta_box.php:138
+msgid "Single"
+msgstr "Una sola respuesta"
+
+#: modules/meta_box.php:138
+msgid "Multi"
+msgstr "Múltiples respuestas"
+
+#: modules/meta_box.php:143
+msgid "Minimum variants that each user needs to select"
+msgstr "Respuestas mínimas que el usuario debe elegir"
+
+#: modules/meta_box.php:149
+msgid "Maximum variants that each user needs to select"
+msgstr "Respuestas máximas que el usuario puede elegir"
+
+#: modules/meta_box.php:167
+msgid "After Vote Message"
+msgstr "Mensaje que se muestra a los usuarios después de responder la votación"
+
+#: modules/meta_box.php:173
+msgid "Emails"
+msgstr ""
+"Emails a los cuales desea enviar copia de cada respuesta de la votación"
+
+#: modules/meta_box.php:175
+msgid "Please, enter emails comma separated"
+msgstr "Por favor ingréselos separados por comas"
+
+#: modules/meta_box.php:181
+msgid ""
+"Do you want to add above the SUBMIT button a free text option so users can "
+"write a message when they answer the poll?"
+msgstr ""
+"¿Desea agregar un campo de texto libre encima del botón ENVIAR de la "
+"votación, para que los usuarios puedan agregar un comentario a su respuesta?"
+
+#: modules/meta_box.php:188
+msgid "Make message mandatory?"
+msgstr "¿Desea que sea obligatorio ingresar el mensaje?"
+
+#: modules/meta_box.php:195
+msgid ""
+"Show written messages to the public in the shortcodes  show_poll_results and "
+"showallpollsanswers?"
+msgstr "¿Mostrar los mensajes al público en la página de resultados?"
+
+#: modules/meta_box.php:203
+msgid "Voting Info"
+msgstr "Resultados de la votación"
+
+#: modules/meta_box.php:213
+msgid "User votes"
+msgstr "Votos del usuario"
+
+#: modules/meta_box.php:222
+msgid ""
+"Allow only voting in this poll users assigned to the selected categories?"
+msgstr ""
+"Restringir esta votación a que solo puedan votar en ella usuarios de la "
+"categoría seleccionada?"
+
+#: modules/meta_box.php:236 modules/settings.php:530
+msgid "Send to all"
+msgstr "Enviar a todos"
+
+#: modules/meta_box.php:244 modules/settings.php:538
+#, fuzzy
+#| msgid "Send to all"
+msgid "Send to All users"
+msgstr "Enviar a todos"
+
+#: modules/meta_box.php:245 modules/settings.php:539
+msgid "Send only to the selected users above"
+msgstr "Unicamente a los usuarios arriba seleccionados"
+
+#: modules/meta_box.php:246 modules/settings.php:540
+msgid "Send only to users with CAN VOTE set to 1 "
+msgstr "Unicamente a usuarios que pueden votar - PUEDE VOTAR = 1 "
+
+#: modules/meta_box.php:247 modules/settings.php:541
+msgid "Send only to users with CAN VOTE set to 0 "
+msgstr "Unicamente a usuarios que no pueden votar - PUEDE VOTAR = 0 "
+
+#: modules/meta_box.php:268 modules/settings.php:562
+#, php-format
+msgid "Send only to users with can vote 1 or 0 in category %s"
+msgstr "Usuarios que pueden y no pueden votar, de la categoría: %s"
+
+#: modules/meta_box.php:276
+msgid "Email settings"
+msgstr "Configuración"
+
+#: modules/meta_box.php:285 modules/settings.php:583
+msgid "Email Report:"
+msgstr "Reporte del envío:"
+
+#: modules/meta_box.php:291 modules/settings.php:589
+msgid "From Name:"
+msgstr "Nombre del remitente:"
+
+#: modules/meta_box.php:296 modules/settings.php:594
+msgid "From Email:"
+msgstr "Email del remitente:"
+
+#: modules/meta_box.php:301 modules/settings.php:599 modules/settings.php:1319
+msgid "Email Subject:"
+msgstr "Asunto:"
+
+#: modules/meta_box.php:315 modules/settings.php:613
+msgid "Select Recipients"
+msgstr "Seleccione destinatarios"
+
+#: modules/meta_box.php:331 modules/settings.php:629
+msgid "Send message to..."
+msgstr "Enviar mensaje a…"
+
+#: modules/meta_box.php:334 modules/settings.php:632
+msgid ""
+"If you check this checkbox, message will be sent to ALL users no matter your "
+"individual emails selection above"
+msgstr ""
+"Si marca esta casilla, el email será enviado a TODOS los usuarios sin "
+"importar los usuarios seleccionados en la casilla de arriba"
+
+#: modules/meta_box.php:340
+msgid "When do you want to send message"
+msgstr "Cuándo desea enviar el mensaje"
+
+#: modules/meta_box.php:350 modules/settings.php:638
+msgid "Send Emails"
+msgstr "Enviar mensaje"
+
+#: modules/meta_box.php:359
+#, fuzzy
+#| msgid "Send Emails"
+msgid "Schedule Email"
+msgstr "Enviar mensaje"
+
+#: modules/meta_box.php:368 modules/settings.php:647
+msgid "Email to send test (Separate multiple emails with commas)"
+msgstr "Emails a los cuales desea enviar prueba (Sepárelos con comas)"
+
+#: modules/meta_box.php:370 modules/settings.php:649
+msgid "Enter emails comma separated"
+msgstr "Por favor ingréselos separados por comas"
+
+#: modules/meta_box.php:374 modules/settings.php:653
+msgid "Send Test Emails"
+msgstr "Enviar Emails de Prueba"
+
+#: modules/meta_box.php:378 modules/settings.php:657
+msgid ""
+"After you edit the emails in this box, please click the SAVE settings button "
+"first at bottom of the page, then click the following Send Test Email button"
+msgstr ""
+"Después de editar los emails en esta casilla, por favor pulse el botón "
+"GUARDAR ubicado al final de esta página, y luego pulse el siguiente botón "
+"ENVIAR EMAILS DE PRUEBA para hacer su envío."
+
+#: modules/meta_box.php:384 modules/settings.php:668
+msgid ""
+"Global Template:<br/>To use line brakes, use &lt;p&gt; &lt;/p&gt; or &lt;"
+"div&gt; &lt;/div&gt; to separate them. Don't use &lt;br&gt;"
+msgstr ""
+"Cuerpo del mensaje:<br/>Tiara usar saltos de párrafo use: &lt;p&gt; &lt;/"
+"p&gt; ó &lt;div&gt; &lt;/div&gt; . No use &lt;br&gt;"
+
+#: modules/meta_box.php:386
+msgid ""
+"You can include any of the following parameters in the email body:<br/>\n"
+"\t\t\tUsername: {username}<br/>\n"
+"\t\t\tPassword: {password}<br/>\n"
+"\t\t\tFirst Name: {first_name}<br/>\n"
+"\t\t\tLast Name: {last_name}<br/>\n"
+"\t\t\tCustom field 1: {custom1}<br/>\n"
+"\t\t\tCustom field 2: {custom2}<br/>\n"
+"\t\t\tOwn shares: {own_shares}<br/>\n"
+"\t\t\tReceives shares: {received_shares}<br/>\n"
+"\t\t\tOwn plus received shares: {own_plus_received_shares}<br/>\n"
+"\t\t\tReset password: {resetpassword}"
+msgstr ""
+"Puede usar las siguientes variables en el cuerpo del mensaje:<br/>\n"
+"\t\t\t\tUsuario: {username}<br/>\n"
+"\t\t\t\tClave: {password}<br/>\n"
+"\t\t\t\t\tNombre: {first_name}<br/>\n"
+"\t\t\t\t\tApellido / Empresa / Apto: {last_name}<br/>\n"
+"\t\t\t\t\tCampo personalizado 1: {custom1}<br/>\n"
+"\t\t\t\t\tCampo personalizado 2: {custom2}<br/>\n"
+"\t\t\t\t\tCoeficiente/Votos/Acciones propias: {own_shares}<br/>\n"
+"\t\t\t\t\tCoeficiente/Votos/Acciones recibidas en poderes: {received_shares}"
+"<br/>\n"
+"\t\t\t\t\tTotal votos/acciones propio + recibidos en poderes: "
+"{own_plus_received_shares}<br/>\n"
+"\t\t\t\t\tLink para resignar clave: {resetpassword}"
+
+#: modules/meta_box.php:401 modules/settings.php:700
+msgid ""
+"Number of users to send the message every 20 seconds (This can help prevent "
+"the sending from being blocked by your server restrictions):"
+msgstr ""
+"Cantidad de mensajes a enviar cada 20 segundos (Esto puede ser útil para "
+"prevenir bloqueos, en servidores con restricciones)"
+
+#: modules/scripts.php:87
+msgid "You cant assign share to same user"
+msgstr "No se puede asignar un poder al mismo usuario"
+
+#: modules/scripts.php:88
+msgid "Please, verify emails!"
+msgstr "Por favor verifique los emails!"
+
+#: modules/scripts.php:89
+msgid " of "
+msgstr " de "
+
+#: modules/scripts.php:90
+msgid "Processed "
+msgstr "Procesados "
+
+#: modules/scripts.php:91
+msgid ""
+" messages have been sent. Please wait and don’t close this window until "
+"finishing"
+msgstr ""
+" mensajes han sido enviados. Por favor espere y no cierre esta ventana hasta "
+"terminar"
+
+#: modules/scripts.php:117
+#, php-format
+msgid "You need to pick from %s1 to %s2 variants"
+msgstr "Se deben seleccionar de  %s1 a %s2 respuestas"
+
+#: modules/settings.php:39
+msgid "Emails sent"
+msgstr "Emails enviados"
+
+#: modules/settings.php:41
+msgid "Settings saved"
+msgstr "Los cambios han sido guardados"
+
+#: modules/settings.php:52
+msgid "Polls created"
+msgstr "Las votaciones se han creado exitosamente"
+
+#: modules/settings.php:55
+msgid "Polls imported"
+msgstr "Las votaciones se han importado correctamente"
+
+#: modules/settings.php:58
+msgid "A total of {XX} users are in the preapproved list"
+msgstr ""
+
+#: modules/settings.php:61
+msgid "Error importing. Try again pls."
+msgstr ""
+
+#: modules/settings.php:66
+msgid ""
+"This user has received the maximum number of proxies allowed. Please modify "
+"that number above or remove some of his proxies to be able to assign this "
+"new proxy"
+msgstr ""
+"Lo sentimos. Este usuario ya ha recibido el número total de poderes "
+"permitidos , que es %%"
+
+#: modules/settings.php:141 modules/settings.php:1212
+msgid "Settings"
+msgstr "Configuración"
+
+#: modules/settings.php:204 modules/settings.php:205 modules/settings.php:206
+msgid "Import Polls"
+msgstr "Importar votaciones"
+
+#: modules/settings.php:215
+msgid ""
+"Import questions. Write or paste questions you want to import. Write each "
+"question in a new line. All questions will get your default variants"
+msgstr ""
+"<h2>Crear votaciones masivamente</h2>Pegue o escriba aquí, preguntas que "
+"desee crear de forma rápida. Ingrese cada pregunta en una línea diferente. "
+"Ingrese SOLO PREGUNTAS. Todas las preguntas quedarán con las respuestas "
+"predefinidas que Ud. tenga configuradas en el submenú “Ajustes respuestas de "
+"votaciones”\n"
+"<h2>Disculpas. Esta versión del plugin de Asambleas no permite importar "
+"votaciones. <a href=https://asamblea.co/producto/plugin-asambleas-"
+"platcom>Adquiera aquí</a> la versión premium y cree votaciones ilimitadas</"
+"h2>"
+
+#: modules/settings.php:236
+msgid "Import polls from CSV file"
+msgstr "<h2>Importar votaciones desde archivo CSV</h2>"
+
+#: modules/settings.php:238
+#, php-format
+msgid ""
+"Here you can create polls by importing them from a CSV file.<br/>\n"
+"\t\t\t\t\tThe file must have these fields: Title, Poll type, Minimum "
+"variants, Maximum variants,  Variant 1., Variant 2, ... , Variant N<br/>\n"
+"\t\t\t\t\tPoll type: 1:  Single, 2: Muti <br/>\n"
+"\t\t\t\t\t<a href=\"%s\" download>(Click here to download a sample csv "
+"file)</a>"
+msgstr ""
+"Aquí ud pude importar votaciones desde un archivo de texto CSV.<br/>\n"
+"\t\t\t\t\tEl archivo debe tener las siguientes columnas: Titulo, Tipo de "
+"votación, Respuestas mínimas a elegir, Respuestas máximas a elegir, "
+"Respuesta 1, Respuesta 2, … , Respuesta N<br/>\n"
+"\t\t\t\t\tEl campo “Tipo de votación” debe ser el número 1 para votaciones "
+"de una sola respuesta o 2 para votaciones de múltiples respuestas. <br/>\n"
+"\t\t\t\t\t<a href=“%s” download>(Click aquí para descargar archivo CSV de "
+"ejemplo)</a>"
+
+#: modules/settings.php:266 modules/settings.php:267
+msgid "Quorum Settings"
+msgstr "Ajustes para el quórum"
+
+#: modules/settings.php:276
+msgid "Choose the method you want to measure user online lifetime:"
+msgstr ""
+"Seleccione el método deseado para calcular si un usuario se encuentra o no "
+"presente para sumarlo en el quórum:"
+
+#: modules/settings.php:279 modules/settings.php:285
+msgid "Previous online minutes"
+msgstr "Cantidad de los siguientes minutos hacia atrás desde el minuto actual"
+
+#: modules/settings.php:280
+msgid ""
+"From this specific date-time (Logged since this moment, for the rest of the "
+"current day): "
+msgstr "Usuarios que iniciaron sesión a partir de la siguiente hora:"
+
+#: modules/settings.php:292
+msgid "From Timestamp"
+msgstr "Seleccione hora-minutos"
+
+#: modules/settings.php:300
+msgid "Organization total shares"
+msgstr ""
+"Coeficiente/Votos totales que tiene la organización (Este valor se usará en "
+"la página de quórum para calcular el porcentaje de coeficiente/votos de "
+"usuarios autenticados en la plataforma)"
+
+#: modules/settings.php:305
+msgid "Minutes range to save quorum data"
+msgstr ""
+"Rango de minutos para salvar el estado actual del quórum. (Podrá consultar "
+"el reporte en el menú Reportes)"
+
+#: modules/settings.php:311
+msgid "Minutes range to save NAMES of logged users:"
+msgstr ""
+"Rango de minutos para salvar nombres de usuarios conectados. (Podrá "
+"consultarlos en el menú Reportes)"
+
+#: modules/settings.php:340
+msgid "Do you want to show a list of connected users when showing the Quorum? "
+msgstr ""
+"¿Desea mostrar en la página de Quórum el listado de usuarios autenticados? "
+
+#: modules/settings.php:349
+msgid ""
+"Do you want to show a list of non-connected users when showing the Quorum? "
+msgstr ""
+"¿Desea mostrar en la página de Quórum el listado de usuarios desconectados? "
+
+#: modules/settings.php:359
+msgid ""
+"Do you want to disable login in the website to all users that have  canvote "
+"= 0 ?"
+msgstr ""
+"Desea inhabilitar login en el sitio a todos los usuarios que no pueden votar "
+"- PUEDE VOTAR = 0?"
+
+#: modules/settings.php:369
+msgid "Allow only a single session per user in the site?"
+msgstr ""
+"Permite solo una sesión simultanea a los usuarios que inicien sesión en el "
+"sitio?"
+
+#: modules/settings.php:380
+msgid "Quorum Table Settings"
+msgstr ""
+"Columnas a mostrar en la tabla de usuarios conectados en la página del quórum"
+
+#: modules/settings.php:386
+msgid "What items do you want to show in quorum table to users?"
+msgstr ""
+"¿Cuáles ítems desea mostrar en la tabla superior de datos en el quórum ?"
+
+#: modules/settings.php:391
+msgid ""
+"Enter the number of decimals to use in the following values of front-end "
+"pages with [quorum] , [showallpollsanswers] and [show_poll_results id='XX'] "
+"shortcodes : "
+msgstr "Numero de decimales a usar: "
+
+#: modules/settings.php:393
+msgid "2"
+msgstr ""
+
+#: modules/settings.php:397
+msgid ""
+"Show above decimals in front-end for these values?   (If NO is selected, "
+"values will be shown with no decimals. Only with thousands separators): <br/"
+"><br/>\n"
+"\t\t\t\t\t\tFrom QUORUM SETTINGS<br/>\n"
+"\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Organization total shares <br/>\n"
+"\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Total online shares at this moment<br/>\n"
+"\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Total online own shares + received shares in "
+"proxies at this moment<br/>\n"
+"\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Total A + B<br/>\n"
+"\t\t\t\t\t\t\t<br/>\n"
+"\t\t\t\t\t\tFrom EXTRA SETTINGS:<br/>\n"
+"\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Total shares in this answer<br/>\n"
+"\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Total own shares + shares from proxies of "
+"users that voted in this poll<br/>\n"
+"\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Shares that didn’t vote<br/>\n"
+"\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Quorum at the closing time minus shares that "
+"voted<br/>\n"
+"\t\t\t\t\t\t"
+msgstr ""
+"¿Mostrar los decimales arriba definidos en los siguientes campos? : <br/><br/"
+">\n"
+"\t\t\t\t\t\tEn QUÓRUM <br/>\n"
+"\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Coeficiente/acciones totales de la "
+"organización <br/>\n"
+"\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Coeficiente/acciones totales presentes en "
+"este momento <br/>\n"
+"\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Total de acciones/coeficiente online en este "
+"momento (Propias mas recibidas en poderes)<br/>\n"
+"\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Total de acciones/coeficiente propias más "
+"poderes<br/>\n"
+"\t\t\t\t\t\t\t<br/>\n"
+"\t\t\t\t\t\tEn RESULTADOS DE VOTACIONES:<br/>\n"
+"\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Total de coeficiente/acciones recibidos<br/>\n"
+"\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Total de coeficiente/acciones propios mas "
+"recibido en poderes de usuarios que votaron<br/>\n"
+"\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Coeficiente/Acciones que no votaron<br/>\n"
+"\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;Quorum al momento del cierre, menos "
+"coeficiente/acciones que votaron<br/>\n"
+"\t\t\t\t\t\t"
+
+#: modules/settings.php:419
+msgid "User List Title"
+msgstr "Título de la lista de usuarios conectados"
+
+#: modules/settings.php:421
+msgid "Lista de usuarios conectados en este momento"
+msgstr ""
+
+#: modules/settings.php:425
+msgid "Offline User List Title"
+msgstr "Título de la lista de usuarios no conectados"
+
+#: modules/settings.php:427
+msgid "Lista de usuarios desconectados en este momento"
+msgstr ""
+
+#: modules/settings.php:440
+msgid "Logout all users now"
+msgstr "DESCONECTAR TODOS LOS USUARIOS AHORA"
+
+#: modules/settings.php:445
+msgid "Total current shares of users in the database:"
+msgstr "Total de usuarios en la base de datos:"
+
+#: modules/settings.php:470 modules/settings.php:471
+msgid "Data Log"
+msgstr "Registro de Quórum"
+
+#: modules/settings.php:479 modules/settings.php:973
+msgid "User Online Lifetime"
+msgstr ""
+"¿Cada cuántos minutos desea se verifique que los usuarios estén conectados "
+"para considerarlos autenticados en la plataforma y contarlos en el quórum?"
+
+#: modules/settings.php:511
+msgid "export_poll_results"
+msgstr ""
+
+#: modules/settings.php:642
+msgid ""
+"After you change the selected users, please click the SAVE settings button "
+"first at bottom of the page, then click the following Send Email button"
+msgstr ""
+"Después de editar los emails en esta casilla, por favor pulse el botón "
+"GUARDAR ubicado al final de esta página, y luego pulse el siguiente botón "
+"ENVIAR EMAILS para hacer su envío. Si observa que los emails enviados llegan "
+"a SPAM o que no llegan, es probable su hosting tenga alguna restricción o "
+"inconveniente. En este caso sugerimos integre su Wordpress con servicios de "
+"envío externos de email como Sendgrid o Amazon Simple Email Service, los "
+"cuales puede activar con el plugin https://wordpress.org/plugins/post-smtp/"
+
+#: modules/settings.php:662
+msgid "Choose the template content you want to use for sending the message:"
+msgstr "Seleccione la plantilla a usar en su envío"
+
+#: modules/settings.php:663
+msgid "Global"
+msgstr ""
+
+#: modules/settings.php:663
+msgid "Custom"
+msgstr "Personalizada"
+
+#: modules/settings.php:670 modules/settings.php:686
+#, fuzzy
+#| msgid ""
+#| "You can include any of the following parameters in the email body:<br/>\n"
+#| "\t\t\t\t\tUsername: {username}<br/>\n"
+#| "\t\t\t\t\tPassword: {password}<br/>\n"
+#| "\t\t\t\t\tFirst Name: {first_name}<br/>\n"
+#| "\t\t\t\t\tLast Name: {last_name}<br/>\n"
+#| "\t\t\t\t\tCustom field 1: {custom1}<br/>\n"
+#| "\t\t\t\t\tCustom field 2: {custom2}<br/>\n"
+#| "\t\t\t\t\tOwn shares: {own_shares}<br/>\n"
+#| "\t\t\t\t\tOwn shares: {received_shares}<br/>\n"
+#| "\t\t\t\t\tOwn shares: {own_plus_received_shares}"
+msgid ""
+"You can include any of the following parameters in the email body:<br/>\n"
+"\t\t\t\t\tUsername: {username}<br/>\n"
+"\t\t\t\t\tPassword: {password}<br/>\n"
+"\t\t\t\t\tFirst Name: {first_name}<br/>\n"
+"\t\t\t\t\tLast Name: {last_name}<br/>\n"
+"\t\t\t\t\tCustom field 1: {custom1}<br/>\n"
+"\t\t\t\t\tCustom field 2: {custom2}<br/>\n"
+"\t\t\t\t\tOwn shares: {own_shares}<br/>\n"
+"\t\t\t\t\tReceives shares: {received_shares}<br/>\n"
+"\t\t\t\t\tOwn plus received shares: {own_plus_received_shares}<br/>\n"
+"\t\t\t\t\tReset password: {resetpassword}"
+msgstr ""
+"Puede usar las siguientes variables en el cuerpo del mensaje:<br/>\n"
+"\t\t\t\tUsuario: {username}<br/>\n"
+"\t\t\t\tClave: {password}<br/>\n"
+"\t\t\t\t\tNombre: {first_name}<br/>\n"
+"\t\t\t\t\tApellido / Empresa / Apto: {last_name}<br/>\n"
+"\t\t\t\t\tCampo personalizado 1: {custom1}<br/>\n"
+"\t\t\t\t\tCampo personalizado 2: {custom2}<br/>\n"
+"\t\t\t\t\tCoeficiente/Votos/Acciones propias: {own_shares}<br/>\n"
+"\t\t\t\t\tCoeficiente/Votos/Acciones recibidas en poderes: {received_shares}"
+"<br/>\n"
+"\t\t\t\t\tTotal votos/acciones propio + recibidos en poderes: "
+"{own_plus_received_shares}"
+
+#: modules/settings.php:684
+msgid ""
+"Custom Template:<br/>To use line brakes, use &lt;p&gt; &lt;/p&gt; or &lt;"
+"div&gt; &lt;/div&gt; to separate them. Don't use &lt;br&gt;"
+msgstr ""
+
+#: modules/settings.php:726 modules/settings.php:727 modules/settings.php:735
+#: modules/settings.php:766
+msgid "Quorum Users"
+msgstr "Usuarios que han realizado login en rango de fechas-horas"
+
+#: modules/settings.php:757 modules/settings.php:758
+#, fuzzy
+#| msgid "Quorum Users"
+msgid "Quorum Users 2"
+msgstr "Usuarios que han realizado login en rango de fechas-horas"
+
+#: modules/settings.php:791 modules/settings.php:794 modules/settings.php:802
+msgid "Email Open Report"
+msgstr "Reporte del envío de Emails"
+
+#: modules/settings.php:792
+msgid "Email Tracking"
+msgstr "Registro de emails enviados"
+
+#: modules/settings.php:793
+msgid ""
+"The IPs shown, may not be the real ones, due to email servers restrictions "
+"and users privacy."
+msgstr ""
+"Las Ips mostradas, pueden no ser las reales, debido a restricciones de "
+"privacidad en servidores"
+
+#: modules/settings.php:826 modules/settings.php:827
+msgid "Online Users Log"
+msgstr "Registro de usuarios conectados"
+
+#: modules/settings.php:835 modules/settings.php:863 modules/settings.php:891
+msgid "List of logged users"
+msgstr "Lista de usuarios conectados"
+
+#: modules/settings.php:854 modules/settings.php:855
+#, fuzzy
+#| msgid "Online Users Log"
+msgid "Online Users Log 2"
+msgstr "Registro de usuarios conectados"
+
+#: modules/settings.php:882 modules/settings.php:883
+msgid "Reports"
+msgstr "Reportes"
+
+#: modules/settings.php:927 modules/settings.php:928
+msgid "Proxy Admin"
+msgstr "Gestión de poderes"
+
+#: modules/settings.php:937
+msgid ""
+"Admin emails where to send proxy assignment/rejection/retirement "
+"notifications (Separate with commas):"
+msgstr ""
+"Emails a los cuales desea se envíen notificaciones de aceptación/rechazo/"
+"retiro de poderes (separe con comas)"
+
+#: modules/settings.php:943
+msgid "Users that can’t receive proxies from other users"
+msgstr "Usuarios que no pueden recibir poderes de otros "
+
+#: modules/settings.php:950
+msgid "Maximum number of proxies that a single user may receive"
+msgstr "Número máximo de poderes que un único usuario puede recibir"
+
+#: modules/settings.php:996 modules/settings.php:997
+msgid "Extra Settings"
+msgstr "Ajustes resultados de votaciones"
+
+#: modules/settings.php:1005
+msgid "Poll Answers Settings"
+msgstr "Ajustes respuestas de votaciones"
+
+#: modules/settings.php:1021
+msgid "Do you want to include in the email body the answers given by users?"
+msgstr ""
+"¿Desea incluir las respuestas dadas por los usuarios en los emails enviados "
+"con cada voto?"
+
+#: modules/settings.php:1028
+msgid "Poll data settings:"
+msgstr "Ajustes respuestas de votaciones:"
+
+#: modules/settings.php:1034
+msgid "Vote Users Table settings:"
+msgstr ""
+"Columnas a mostrar en las tablas de usuarios de los resultado de votaciones"
+
+#: modules/settings.php:1041
+msgid "Enable lite mode?"
+msgstr ""
+"Habilitar modo “LIVIANO” (Habilite este modo si si hosting le genera errores "
+"por alto número de usuarios. Esto no guardará los nombres de los usuarios "
+"conectados periódicamente, tampoco la IP, ni el browser del usuario en las "
+"votaciones)?"
+
+#: modules/settings.php:1044 modules/settings.php:1053
+msgid ""
+"If you enable this option, when you edit or create a poll, the lists of "
+"users that voted and have not voted, will not be shown. Names of users in "
+"Quorum will not be saved."
+msgstr ""
+
+#: modules/settings.php:1050
+msgid "Enable POLLS WITH TIMER?"
+msgstr ""
+"Activar votaciones por grupo de usuarios? Esto hará que los votos sean "
+"ingresados por grupos de 100 usuarios en el tiempo que seleccione a "
+"continuación. Actívelo si su hosting no soporta grandes números de "
+"conexiones concurrentes y obtiene errores de conexión a la base de datos al "
+"momento de votar."
+
+#: modules/settings.php:1057
+msgid "Interval (sec)"
+msgstr ""
+"Si seleccionó en el ítem anterior “Sí”, ingrese el intervalo deseado "
+"(segundos) para que los grupos de 100 votantes ingresen sus votos"
+
+#: modules/settings.php:1059
+msgid " "
+msgstr ""
+
+#: modules/settings.php:1082 modules/settings.php:1083
+msgid "Variants Settings"
+msgstr "Ajustes respuestas de votaciones"
+
+#: modules/settings.php:1091
+msgid "Default Answer Variants"
+msgstr "Respuestas por  defecto para mostrar al crear una nueva votación"
+
+#: modules/settings.php:1095
+msgid "Please, enter default variants one per line."
+msgstr "Por favor ingrese cada posible respuesta separada por coma."
+
+#: modules/settings.php:1100
+msgid "Default text to show in every poll after a user  submits his answer: "
+msgstr ""
+"Texto a mostrar por defecto en las votaciones cuando un usuario pulsa el "
+"botón ENVIAR:"
+
+#: modules/settings.php:1110
+msgid ""
+"Enter Default emails where you want to send poll answers to be used when "
+"creating new polls (separate using commas)"
+msgstr ""
+"Ingrese emails por defecto a los cuales desea se envíen las respuesta de las "
+"votaciones (sepárelos con comas)"
+
+#: modules/settings.php:1142 modules/settings.php:1143
+#: modules/settings.php:1145
+msgid "Registration form for pre-approved users"
+msgstr "Formulario de registro para usuarios pre-aprobados"
+
+#: modules/settings.php:1144
+msgid ""
+"This allows you to include a form in a page to allow users to register and "
+"automatically be accepted If you have previously added them in this page. "
+"Registration for all other users will not be accepted.  Just put the "
+"shortcode [registration_form] in the page where you want to show the form."
+msgstr ""
+
+#: modules/settings.php:1153
+msgid "Form fields"
+msgstr ""
+
+#: modules/settings.php:1154
+msgid ""
+"Select the fields you want to show in the form where the [registration_form] "
+"shortcode is placed:"
+msgstr ""
+
+#: modules/settings.php:1165
+msgid "File attachments extensions allowed:"
+msgstr ""
+
+#: modules/settings.php:1174
+msgid "File attachments max size allowed in Mb:"
+msgstr ""
+
+#: modules/settings.php:1191
+msgid "Pre-approved users"
+msgstr ""
+
+#: modules/settings.php:1196
+msgid "CSV file with users"
+msgstr ""
+
+#: modules/settings.php:1201
+#, php-format
+msgid ""
+"Please, select CSV file with user data, each user in separate line, comma "
+"separatedю You can check currect list of users <a target=\"_blank\" "
+"href=\"%s\">here</a>"
+msgstr ""
+
+#: modules/settings.php:1207
+msgid "Upload"
+msgstr ""
+
+#: modules/settings.php:1218
+msgid "Need to validate both EMAIL and USERNAME?"
+msgstr ""
+
+#: modules/settings.php:1227
+msgid ""
+"Hint: If marked YES, to approve the user, he needs to enter both the EMAIL "
+"and USERNAME  as were entered by admin.  If only one of both is entered OK, "
+"Please this will be shown to the user \"Only one field of  your USERNAME/"
+"EMAIL was found in the system. Both your username and email must be the ones "
+"we have in our records to approve your registration.. Please review and try "
+"again. If you think this is an error, please contact support”.   If marked "
+"NO, user will be approved if he enters either the USERNAME or the EMAIL of "
+"one preapproved user in the previous field."
+msgstr ""
+
+#: modules/settings.php:1232
+msgid ""
+"Confirmation message to show to the user if he was found in the pre-approved "
+"list when he fills the registration form:"
+msgstr ""
+
+#: modules/settings.php:1236
+msgid "You were found in the system and your registration was successful"
+msgstr ""
+
+#: modules/settings.php:1241
+msgid "Mesage to show to the user if he was already approved or registered:"
+msgstr ""
+
+#: modules/settings.php:1245
+msgid ""
+"Error: A user with the data entered is already in the system, so you can’t "
+"register again"
+msgstr ""
+
+#: modules/settings.php:1250
+msgid ""
+"Message to show to the user if he is not found in the pre-approved list: "
+msgstr ""
+
+#: modules/settings.php:1254
+msgid ""
+"You were not found in the system, so can’t be registered. If you think this "
+"is an error, please contact support"
+msgstr ""
+
+#: modules/settings.php:1259
+msgid "Form submit button label: "
+msgstr ""
+
+#: modules/settings.php:1268
+msgid "Emails to send notifications of  registrations, separated by comma:"
+msgstr ""
+
+#: modules/settings.php:1277
+msgid "Click here to delete all attachments received in registration forms"
+msgstr ""
+
+#: modules/settings.php:1288
+#, fuzzy
+#| msgid "Do you want to include in the email body the answers given by users?"
+msgid "Do you want to send a confirmation email to users when they register?"
+msgstr ""
+"¿Desea incluir las respuestas dadas por los usuarios en los emails enviados "
+"con cada voto?"
+
+#: modules/settings.php:1301
+msgid "Email from NAME:"
+msgstr ""
+
+#: modules/settings.php:1310
+msgid "Email from EMAIL:"
+msgstr ""
+
+#: modules/settings.php:1328
+#, fuzzy
+#| msgid "Message"
+msgid "Message to send"
+msgstr "Mensaje: "
+
+#: modules/settings.php:1333
+msgid ""
+"Allowed variables:<br/> \n"
+"\t\t\t\t\tUsername: {username}<br/>\n"
+"\t\t\t\t\tFirst Name: {first_name}<br/>\n"
+"\t\t\t\t\tLast Name: {last_name}\n"
+"\t\t\t\t\t"
+msgstr ""
+
+#: modules/settings.php:1360 modules/settings.php:1362
+#: modules/settings.php:1363
+msgid "Help"
+msgstr "Ayuda"
+
+#: modules/settings.php:1393 modules/settings.php:1394
+#: modules/settings.php:1402
+msgid "Email Log"
+msgstr "Registro de emails enviados"
+
+#: modules/settings.php:1435 modules/settings.php:1466
+msgid "export_poll_results_with_pdf"
+msgstr "1. Exportar resultados de todas las votaciones"
+
+#: modules/settings.php:1487 modules/settings.php:1488
+msgid "Relogin Settings"
+msgstr "Ajustes re-login"
+
+#: modules/settings.php:1496
+msgid "Allow only Relogin"
+msgstr "Habilitar login solo a usuarios que previamente han iniciado sesión"
+
+#: modules/settings.php:1499
+msgid ""
+"Allow only re-login to the site to users that have previously made at least "
+"one successful login BEFORE this server/time (Wordpress installation time) "
+"of same day. All other users will not be able to login"
+msgstr ""
+"Si se marca SI, solo se permitirá iniciar sesión en el sitio a usuarios que "
+"en el mismo día, se han autenticado antes de la hora que se ingrese a "
+"continuación."
+
+#: modules/settings.php:1503
+msgid "Enter TIME"
+msgstr ""
+"Ingrese HORA (Solo usuarios que hayan iniciado sesión HOY antes de esta "
+"hora, podrán iniciar sesión)"
+
+#: modules/shortcodes.php:12
+msgid "Access to this page is not allowed"
+msgstr ""
+
+#: modules/shortcodes.php:131
+msgid "Go"
+msgstr ""
+
+#: modules/shortcodes.php:157
+msgid "Email already exists"
+msgstr ""
+
+#: modules/shortcodes.php:180
+msgid "Attach %n have wrong format."
+msgstr ""
+
+#: modules/shortcodes.php:187
+msgid "Attach %n is too big."
+msgstr ""
+
+#: modules/shortcodes.php:495 modules/shortcodes.php:2043
+#: modules/shortcodes.php:2212
+msgid "No."
+msgstr "No."
+
+#: modules/shortcodes.php:811
+msgid "Write/Paste here the possible options  (1 per line)"
+msgstr "Lista de nombres (Uno por línea)"
+
+#: modules/shortcodes.php:817
+msgid "How many winners:"
+msgstr "Cuántos ganadores desea: "
+
+#: modules/shortcodes.php:822
+msgid "Run the raffle"
+msgstr "Ejecutar"
+
+#: modules/shortcodes.php:826
+msgid "List of winners:"
+msgstr "Ganador(es):"
+
+#: modules/shortcodes.php:835
+#, fuzzy
+#| msgid "Run another raffle"
+msgid "Run another raffle with empty options"
+msgstr "Ejecutar de nuevo"
+
+#: modules/shortcodes.php:838
+#, fuzzy
+#| msgid "Run another raffle"
+msgid "Run another raffle with last options"
+msgstr "Ejecutar de nuevo"
+
+#: modules/shortcodes.php:841
+msgid "Run another raffle with last options, removing winners"
+msgstr ""
+
+#: modules/shortcodes.php:848
+msgid "Number of winners needs to be lower than the list of options"
+msgstr "El número de ganadores debe ser menor al total de nombres"
+
+#: modules/shortcodes.php:874
+msgid "Polls answers received for user:"
+msgstr "Respuestas registradas por el usuario:"
+
+#: modules/shortcodes.php:884
+msgid "Poll title"
+msgstr "Título de la votación"
+
+#: modules/shortcodes.php:886
+msgid "Date – time of your answer"
+msgstr "Fecha-hora del voto"
+
+#: modules/shortcodes.php:887
+msgid "Your answer was"
+msgstr "Su respuesta fue"
+
+#: modules/shortcodes.php:1052
+msgid "Only Online"
+msgstr "Solo los online"
+
+#: modules/shortcodes.php:1053
+msgid "Only Offline"
+msgstr "Solo los offline"
+
+#: modules/shortcodes.php:1070
+#, fuzzy
+msgid "Own Shares (A), "
+msgstr "Coeficiente /Votos del usuario (A),"
+
+#: modules/shortcodes.php:1076
+msgid "Shares of proxies received (B), "
+msgstr "Coeficientes / Votos de los poderes recibidos (B)"
+
+#: modules/shortcodes.php:1197 modules/shortcodes.php:1333
+#: modules/shortcodes.php:1339 modules/shortcodes.php:1465
+#: modules/shortcodes.php:1471
+msgid "There are no polls to show at this moment"
+msgstr "No hay votaciones activas en este momento"
+
+#: modules/shortcodes.php:1506
+#, php-format
+msgid ""
+"Sorry, this user has already reached the maximum number of proxies allowed "
+"by the system, which is %%. Please try another one"
+msgstr ""
+"Lo sentimos. Este usuario ya ha recibido el número total de poderes "
+"permitidos , que es %%. "
+
+#: modules/shortcodes.php:1514
+msgid "Sorry, user already exists in system."
+msgstr "Lo sentimos. Este usuario ya existe "
+
+#: modules/shortcodes.php:1522
+msgid "Sorry, you not allowed to assign proxies"
+msgstr "Usted no tiene permiso para asignar poder a otro usuario."
+
+#: modules/shortcodes.php:1531 modules/shortcodes.php:2480
+msgid "You need to be logged in to vote."
+msgstr "Se requiere estar autenticado para votar."
+
+#: modules/shortcodes.php:1541
+msgid "Proxies that I have received:"
+msgstr "Poderes que ha recibido el usuario"
+
+#: modules/shortcodes.php:1546
+msgid "Proxies given by"
+msgstr "Poderes que ha recibido el usuario"
+
+#: modules/shortcodes.php:1547
+msgid "Date when the proxy was assigned (YYYY-MM-DD)"
+msgstr "Fecha de asignación del poder (AAAA-MM-DD)"
+
+#: modules/shortcodes.php:1599
+#, php-format
+msgid "You have given a proxy to: %s – %s – %s"
+msgstr "Usted ha dado poder a: %s – %s – %s"
+
+#: modules/shortcodes.php:1601 modules/shortcodes.php:1626
+msgid "Are you sure? "
+msgstr "¿Esta seguro? "
+
+#: modules/shortcodes.php:1601 modules/shortcodes.php:1626
+msgid "Remove Given Proxy"
+msgstr "Pulse aquí para remover el poder dado y volver a recuperar sus votos"
+
+#: modules/shortcodes.php:1605
+msgid "Time to share passed"
+msgstr ""
+
+#: modules/shortcodes.php:1624
+msgid "You have given a proxy to: "
+msgstr ""
+"Usted aún no ha asignado poder para su participación en la Asamblea. Puede "
+"hacerlo a continuación. Al asignar un poder usted no podrá votar en la "
+"Asamblea. La persona que reciba su poder votará en su nombre. Su coeficiente "
+"será sumado al coeficiente del usuario al que asigne. \n"
+"Si lo desea, podrá retirar su poder antes de la Asamblea"
+
+#: modules/shortcodes.php:1632
+msgid "You have not given any proxy"
+msgstr ""
+"Usted aún no ha asignado poder para su participación en la Asamblea. Puede "
+"hacerlo a continuación. Al asignar un poder usted no podrá votar en la "
+"Asamblea. La persona que reciba su poder votará en su nombre. Su coeficiente "
+"será sumado al coeficiente del usuario al que asigne. \n"
+"Si lo desea, podrá retirar su poder antes de la Asamblea."
+
+#: modules/shortcodes.php:1635
+msgid "Assign proxy to external user"
+msgstr "Asignar poder a usuario externo"
+
+#: modules/shortcodes.php:1654
+msgid "Give a proxy with your shares to another user"
+msgstr "Seleccione el usuario al cual desea darle poder."
+
+#: modules/shortcodes.php:1656
+msgid "Select User"
+msgstr "Seleccionar usuario"
+
+#: modules/shortcodes.php:1694
+msgid "Assign Proxies"
+msgstr "Asignar poder"
+
+#: modules/shortcodes.php:2427 modules/shortcodes.php:2812
+#, php-format
+msgid "Sorry, poll with this ID %d not exists"
+msgstr "Lo siento no existe votación con el id %d "
+
+#: modules/shortcodes.php:2446 modules/shortcodes.php:2489
+msgid "Sorry, you not allowed to vote"
+msgstr "Usted no tiene permisos para participar en esta votación"
+
+#: modules/shortcodes.php:2520
+msgid "Results submit error. Try Again."
+msgstr "Error. Por favor intente de nuevo o contacte a soporte."
+
+#: modules/shortcodes.php:2530
+#, fuzzy
+#| msgid "Select poll category to export"
+msgid "Sorry, user need to be in poll category to vote"
+msgstr "Seleccione la categoría de las votaciones a exportar"
+
+#: modules/shortcodes.php:2542 modules/shortcodes.php:2668
+#, php-format
+msgid "You already vote in this vote – %s"
+msgstr ""
+"Su voto ya ha sido registrado para esta pregunta. Solo se permite un voto "
+"por usuario - %s"
+
+#: modules/shortcodes.php:2597
+msgid "Please wait XX seconds to enter your vote."
+msgstr "Por favor espere XX segundos para ingresar su voto."
+
+#: modules/shortcodes.php:2715
+msgid "Please, enter your message"
+msgstr "Por favor ingrese su mensaje"
+
+#: modules/shortcodes.php:2726
+msgid "You are an admin and administrators can't vote"
+msgstr "Enviar"
+
+#: modules/shortcodes.php:2736
+msgid "This poll is closed for voting"
+msgstr ""
+"La votación se encuentra cerrada. Por favor recargue esta ventana cuando el "
+"moderador indique que ya esta abierta para votar"
+
+#: modules/shortcodes.php:3106 modules/shortcodes.php:3113
+msgid "Poll is open at this moment"
+msgstr "La votación está abierta en este momento"
+
+#: modules/shortcodes.php:3290
+msgid "Not voted:"
+msgstr "Usuarios que no han ingresado su respuesta en esta votación:"
+
+#: modules/shortcodes.php:3448
+msgid "All users, that voted::"
+msgstr "Usuarios que ya ingresaron su respuesta en esta votación:"
+
+#~ msgid "What items do you want to show in quorom table to users?"
+#~ msgstr ""
+#~ "¿Cuáles ítems desea mostrar en la tabla superior de datos del Quórum?"
+
+#~ msgid "Custom Template:"
+#~ msgstr "Plantilla personalizada:"
+
+#~ msgid "Send to all:"
+#~ msgstr "Enviar a todos"
+
+#, fuzzy
+#~| msgid "Quorum users"
+#~ msgid "Quorum users 2"
+#~ msgstr "Listado de nombres de usuarios conectados"
+
+#~ msgid "First Name: "
+#~ msgstr "Nombre"
+
+#~ msgid "Last Name: "
+#~ msgstr "Apellido/ Empresa"
+
+#~ msgid "Received shares in proxies: "
+#~ msgstr "Coeficiente/Votos recibidos en poderes"
+
+#~ msgid "Total shares: "
+#~ msgstr ""
+#~ "Coeficiente/Votos totales (propios más recibidos de poderes) que tiene el "
+#~ "usuario"
+
+#~ msgid "Current status (Accepted or Rejected)"
+#~ msgstr "Estado actual (Aceptado o rechazado)"
+
+#, php-format
+#~ msgid ""
+#~ "Sorry, in this version of the plugin, you are allowed to create up to %d "
+#~ "polls. <a href=\"https://asamblea.co/plugin-para-wordpress/\" "
+#~ "target=\"new\">Upgrade here to our Premium Version to have unlimited "
+#~ "polls and support</a>"
+#~ msgstr ""
+#~ "Lo sentimos, en esta version gratuita del plugin WP-Asambleas, se "
+#~ "permiten crear hasta %d votaciones. <a href=https://asamblea.co/plugin-"
+#~ "para-wordpress/ target=new>Actualice aquí a nuestra versión premium y "
+#~ "obtenga votaciones ilimitadas y soporte</a>"
+
+#, fuzzy
+#~| msgid "Remove"
+#~ msgid "Remove log"
+#~ msgstr "Borrar"
+
+#~ msgid "Template Type:"
+#~ msgstr "Plantilla:"
+
+#, fuzzy
+#~| msgid "Show results  at results page?"
+#~ msgid "Show only voters lists in poll results?"
+#~ msgstr "¿Mostrar resultado en la página global de resultados?"
+
+#~ msgid "No results"
+#~ msgstr "Sin resultados"
+
+#~ msgid "Total shares that participated in this voting"
+#~ msgstr "Votos recibidos en cada respuesta"
+
+#~ msgid ""
+#~ "Answer \n"
+#~ "\t\t\t\t\t\t\t%"
+#~ msgstr "%"
+
+#~ msgid "Voting table"
+#~ msgstr "Respuestas recibidas en esta votación"
+
+#~ msgid "Total shares that the users holds (Own + received) (A + B)"
+#~ msgstr "Total del coeficiente que tiene el usuario (A + B)"
+
+#~ msgid ""
+#~ "Answer \n"
+#~ "\t\t\t\t%"
+#~ msgstr "% "

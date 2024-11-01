@@ -1,0 +1,90 @@
+.tw-bs input[type=checkbox] {
+	width:15px !important;
+	height:15px !important;
+}
+.tw-bs input[type=radio]{
+    width: 15px !important;
+    height: 15px !important;
+    border-radius: 10px !important;
+}
+.image_preview{
+		
+	overflow: hidden;
+}
+.image_preview img{
+	width:150px;
+	float:left;
+	margin-right:10px;
+}
+.big_loader{
+	position:fixed;
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-image: url(loader.gif);
+	background-color:rgba(255,255,255,0.5);
+	background-repeat:no-repeat;
+	background-position:50% 50%;
+	z-index:1000000;
+	
+}
+.big_loader #inner_counter_block{
+ 
+    margin: 100px auto;
+    font-size: 16px;
+    font-weight: bold;
+    /* left: 50%; */
+    text-align: center;
+}
+.vote_table tbody tr:first-child .variant_line_remove{
+	display:none;
+}
+.edit_container{
+	display:none;
+}
+tr.not-voted{
+	background:#ffe000;
+}
+.tw-bs4 .pagination-links a, .tw-bs4 .pagination-links > span{
+	margin-right:5px !important;
+}
+.user_log_table{
+	margin:10px;
+	border:1px solid #ccc;
+	padding:5px;
+}
+.subsubsub li.can_vote{
+	display:block;
+}
+.editor_block{
+	display:none;
+}
+.edited_value{
+	width: 40px;
+    margin: 10px 20px !important;
+}
+.post-type-poll th#actions{
+	 width:300px;
+}
+ul.actions_list, ul.actions_list li{
+	list-style:none;
+}
+.user_log_list{
+	display:none;
+	max-height:300px;
+	overflow-y: scroll;
+}
+
+.table.sortable_table thead tr th{
+	cursor:ns-resize;
+}
+.vote_table .is_multi{
+	max-width:100px;
+}
+#content_part{
+	padding: 10px;
+    background: #fff;
+    width: 100%;
+    margin-bottom: 10px;
+}

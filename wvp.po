@@ -1,0 +1,438 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-shortcode-content\n"
+"POT-Creation-Date: 2020-04-23 18:20+0300\n"
+"PO-Revision-Date: 2020-04-23 18:20+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: modules/ajax.php:121
+msgid "No results"
+msgstr ""
+
+#: modules/cpt.php:50 modules/cpt.php:51
+msgid "Poll"
+msgstr ""
+
+#: modules/cpt.php:52
+msgid "Add New"
+msgstr ""
+
+#: modules/cpt.php:53
+msgid "Add New Poll"
+msgstr ""
+
+#: modules/cpt.php:54
+msgid "Edit Poll"
+msgstr ""
+
+#: modules/cpt.php:55
+msgid "New Poll"
+msgstr ""
+
+#: modules/cpt.php:56
+msgid "All Poll"
+msgstr ""
+
+#: modules/cpt.php:57
+msgid "View Card"
+msgstr ""
+
+#: modules/cpt.php:58
+msgid "Search Poll"
+msgstr ""
+
+#: modules/cpt.php:59
+msgid "No Poll found"
+msgstr ""
+
+#: modules/cpt.php:60
+msgid "No Poll found in Trash"
+msgstr ""
+
+#: modules/cpt.php:62
+msgid "Polls"
+msgstr ""
+
+#: modules/cpt.php:87
+msgid "Search Categories"
+msgstr ""
+
+#: modules/cpt.php:88
+msgid "Popular Categories"
+msgstr ""
+
+#: modules/cpt.php:89
+msgid "All Categories"
+msgstr ""
+
+#: modules/cpt.php:92
+msgid "Edit Category"
+msgstr ""
+
+#: modules/cpt.php:93
+msgid "Update Category"
+msgstr ""
+
+#: modules/cpt.php:94
+msgid "Add New Category"
+msgstr ""
+
+#: modules/cpt.php:95
+msgid "New Category Name"
+msgstr ""
+
+#: modules/cpt.php:96
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: modules/cpt.php:97
+msgid "Add or remove Categories"
+msgstr ""
+
+#: modules/cpt.php:98
+msgid "Choose from the most used Categoryies"
+msgstr ""
+
+#: modules/cpt.php:99
+msgid "No Categories found."
+msgstr ""
+
+#: modules/cpt.php:100
+msgid "Category"
+msgstr ""
+
+#: modules/formElementsClass.php:100
+msgid "User that gave proxy"
+msgstr ""
+
+#: modules/formElementsClass.php:101
+msgid "User that received the proxy"
+msgstr ""
+
+#: modules/formElementsClass.php:102
+msgid "Date of action"
+msgstr ""
+
+#: modules/formElementsClass.php:103
+msgid "Proxy was given by user or admin?"
+msgstr ""
+
+#: modules/formElementsClass.php:104
+msgid "Actions"
+msgstr ""
+
+#: modules/formElementsClass.php:142
+msgid "Change recipient"
+msgstr ""
+
+#: modules/formElementsClass.php:157
+msgid "Remove Proxy"
+msgstr ""
+
+#: modules/formElementsClass.php:172
+msgid "Select user that GIVES the proxy "
+msgstr ""
+
+#: modules/formElementsClass.php:189
+msgid "Select user that RECEIVES the proxy  "
+msgstr ""
+
+#: modules/formElementsClass.php:206
+msgid "Assign"
+msgstr ""
+
+#: modules/formElementsClass.php:271 modules/shortcodes.php:400
+msgid "Total shares that participated in this voting"
+msgstr ""
+
+#: modules/formElementsClass.php:272
+msgid ""
+"Answer \n"
+"\t\t\t\t\t\t\t%"
+msgstr ""
+
+#: modules/formElementsClass.php:309 modules/shortcodes.php:435
+msgid "Total"
+msgstr ""
+
+#: modules/formElementsClass.php:322
+msgid "Voting table"
+msgstr ""
+
+#: modules/formElementsClass.php:326
+msgid "Username"
+msgstr ""
+
+#: modules/formElementsClass.php:327 modules/shortcodes.php:220
+msgid "First name"
+msgstr ""
+
+#: modules/formElementsClass.php:328 modules/shortcodes.php:221
+msgid "Last Name"
+msgstr ""
+
+#: modules/formElementsClass.php:329 modules/shortcodes.php:222
+msgid "Own Shares (A)"
+msgstr ""
+
+#: modules/formElementsClass.php:330
+msgid "Proxys amount received by user"
+msgstr ""
+
+#: modules/formElementsClass.php:331
+msgid ""
+"Total shares of received proxys \n"
+"\t\t\t\t\t\t\t(B)"
+msgstr ""
+
+#: modules/formElementsClass.php:333
+msgid "Total Shares (A + B)"
+msgstr ""
+
+#: modules/formElementsClass.php:334
+msgid "Answer given by user"
+msgstr ""
+
+#: modules/formElementsClass.php:335
+msgid "Admin action"
+msgstr ""
+
+#: modules/formElementsClass.php:374 modules/settings.php:181
+msgid "Save"
+msgstr ""
+
+#: modules/formElementsClass.php:387
+msgid "Export to CSV"
+msgstr ""
+
+#: modules/formElementsClass.php:392
+msgid "Total:"
+msgstr ""
+
+#: modules/formElementsClass.php:436
+msgid "Date"
+msgstr ""
+
+#: modules/formElementsClass.php:437
+msgid "Time"
+msgstr ""
+
+#: modules/formElementsClass.php:438 modules/settings.php:164
+msgid "Total current users online at this moment"
+msgstr ""
+
+#: modules/formElementsClass.php:439 modules/settings.php:165
+msgid "Total online shares at this moment"
+msgstr ""
+
+#: modules/formElementsClass.php:440 modules/settings.php:166
+#, php-format
+msgid "% of shares out of the total for our organization, online at this moment"
+msgstr ""
+
+#: modules/formElementsClass.php:462
+msgid "Export as CSV"
+msgstr ""
+
+#: modules/formElementsClass.php:464
+msgid "Are you sure you want to delete all saved data for quorum?"
+msgstr ""
+
+#: modules/formElementsClass.php:464
+msgid "Delete all records"
+msgstr ""
+
+#: modules/hooks.php:27
+msgid "Vote for "
+msgstr ""
+
+#: modules/hooks.php:31
+msgid "Vote name: "
+msgstr ""
+
+#: modules/hooks.php:32
+msgid "Vote answer:"
+msgstr ""
+
+#: modules/hooks.php:33
+msgid "Date – Time of vote: "
+msgstr ""
+
+#: modules/hooks.php:34
+msgid "Username: "
+msgstr ""
+
+#: modules/hooks.php:35
+msgid "User:"
+msgstr ""
+
+#: modules/hooks.php:36
+msgid "User Email: "
+msgstr ""
+
+#: modules/hooks.php:37
+msgid "User IP:"
+msgstr ""
+
+#: modules/hooks.php:38
+msgid "Own Shares:"
+msgstr ""
+
+#: modules/hooks.php:39
+msgid "Proxys amount:"
+msgstr ""
+
+#: modules/hooks.php:40
+msgid "Total Shares:"
+msgstr ""
+
+#: modules/meta_box.php:100
+msgid "Select Term"
+msgstr ""
+
+#: modules/meta_box.php:144
+msgid "Please, enter emails comma separated"
+msgstr ""
+
+#: modules/settings.php:21
+msgid "Settings saved"
+msgstr ""
+
+#: modules/settings.php:88
+msgid "Settings"
+msgstr ""
+
+#: modules/settings.php:137 modules/settings.php:138
+msgid "Quorum Settings"
+msgstr ""
+
+#: modules/settings.php:146 modules/settings.php:210 modules/settings.php:241
+msgid "User Online Lifetime"
+msgstr ""
+
+#: modules/settings.php:151 modules/settings.php:167
+msgid "Organization total shares"
+msgstr ""
+
+#: modules/settings.php:156
+msgid "Minutes range to save quorum data"
+msgstr ""
+
+#: modules/settings.php:161
+msgid "What items do you want to show in quorm table to users?"
+msgstr ""
+
+#: modules/settings.php:172
+msgid "Do you want to show a list of connected users when showing the Quorum? "
+msgstr ""
+
+#: modules/settings.php:175
+msgid "No"
+msgstr ""
+
+#: modules/settings.php:176
+msgid "Yes"
+msgstr ""
+
+#: modules/settings.php:201 modules/settings.php:202
+msgid "Data Log"
+msgstr ""
+
+#: modules/settings.php:232 modules/settings.php:233
+msgid "Proxy Admin"
+msgstr ""
+
+#: modules/shortcodes.php:20
+msgid "Sorry, you not allowed to assign proxies"
+msgstr ""
+
+#: modules/shortcodes.php:29 modules/shortcodes.php:305
+msgid "You need to be logged in to vote."
+msgstr ""
+
+#: modules/shortcodes.php:48 modules/shortcodes.php:73
+msgid "You have given a proxy to: "
+msgstr ""
+
+#: modules/shortcodes.php:50 modules/shortcodes.php:75
+msgid "Are you sure? "
+msgstr ""
+
+#: modules/shortcodes.php:50 modules/shortcodes.php:75
+msgid "Remove Given Proxy"
+msgstr ""
+
+#: modules/shortcodes.php:54
+msgid "Time to share passed"
+msgstr ""
+
+#: modules/shortcodes.php:81
+msgid "You have not given any proxy"
+msgstr ""
+
+#: modules/shortcodes.php:85
+msgid "Give a proxy with your shares to another user"
+msgstr ""
+
+#: modules/shortcodes.php:93
+msgid "Select User"
+msgstr ""
+
+#: modules/shortcodes.php:105
+msgid "Assign Proxies"
+msgstr ""
+
+#: modules/shortcodes.php:182
+msgid "Total current users online at this moment:"
+msgstr ""
+
+#: modules/shortcodes.php:190
+msgid "Total online shares at this moment:"
+msgstr ""
+
+#: modules/shortcodes.php:198
+#, php-format
+msgid "% of shares out of the total for our organization, online at this moment:"
+msgstr ""
+
+#: modules/shortcodes.php:205
+msgid "Organization total shares :"
+msgstr ""
+
+#: modules/shortcodes.php:223
+msgid "Amount of proxies received"
+msgstr ""
+
+#: modules/shortcodes.php:224
+msgid ""
+"Sum of shares of proxies received \n"
+"\t\t\t\t\t(B)"
+msgstr ""
+
+#: modules/shortcodes.php:226
+msgid "Total shares that the users holds (Own + received) (A + B)"
+msgstr ""
+
+#: modules/shortcodes.php:296
+msgid "Sorry, you not allowed to vote"
+msgstr ""
+
+#: modules/shortcodes.php:326
+#, php-format
+msgid "You already vote in this vote – %s"
+msgstr ""
+
+#: modules/shortcodes.php:401
+msgid ""
+"Answer \n"
+"\t\t\t\t%"
+msgstr ""

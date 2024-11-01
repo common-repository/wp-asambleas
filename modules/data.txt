@@ -1,0 +1,15 @@
+'You can include any of the following parameters in the email body:<br />
+Username: vasya111111333<br />
+Password: <br />
+First Name: <br />
+Last Name: <br />
+Custom field 1: <br />
+Custom field 2: <br />
+Own shares: 0<br />
+Own shares: 0<br />
+Own shares: 0<br />
+Reset password: <a href="http://localhost/wordpress/wp-login.php?action=rp&key=exsgh2Wz9lb9yEjc48vC&login=vasya111111333">http://localhost/wordpress/wp-login.php?action=rp&key=exsgh2Wz9lb9yEjc48vC&login=vasya111111333</a><br />
+<br />
+&nbsp;<br />
+<br />
+GLOBAL'

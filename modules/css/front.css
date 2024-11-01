@@ -1,0 +1,80 @@
+.new_progress{
+    width:100%;
+    height:20px;
+    border:1px solid #ccc;
+}
+.progressbar_inner{
+    
+    height:20px;
+    background-color: #007bff;
+}
+.layout-fixd{
+    table-layout: fixed;
+}
+.single_poll_out{
+    -webkit-box-shadow: 10px 10px 22px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 22px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 22px 0px rgba(0,0,0,0.75);
+margin-bottom:20px;
+padding:20px;
+
+}
+.sortable_table thead th{
+    cursor: n-resize;
+}
+.big_loader{
+	position:fixed;
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-image: url(loader.gif);
+	background-color:rgba(255,255,255,0.5);
+	background-repeat:no-repeat;
+	background-position:50% 50%;
+	z-index:1000000;
+	
+}
+.widget_bp_paypal_widget h2.widget-title{
+	text-align: center;
+    display: block;
+}
+.in-iframe .all_polls_list{
+    /*
+	position: absolute;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    height: 100%;
+    top: 50px;
+    */
+    z-index: 10000;
+    background: #fff;
+    bottom: 0px;
+}
+.in-iframe .all_polls_list .single_poll_out{
+    background: #fff;
+}
+.in-iframe  #wpadminbar{
+    display:none;
+}
+
+
+.results_list .raffle_results ul, .results_list .raffle_results ul li{
+    list-style:none;
+    margin:0px;
+    padding:0px;
+}
+.submission_vote_form input[type="radio"],
+.submission_vote_form input[type="checkbox"]{
+    transform: scale(1.5);
+}
+.step_2_block{
+    margin-top:40px;
+}
+/* hide margin on modal view */
+.compensate-for-scrollbar
+{
+   overflow:auto !important;
+   margin:auto !important;
+}
